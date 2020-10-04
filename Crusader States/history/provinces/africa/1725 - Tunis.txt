@@ -1,0 +1,6 @@
+owner = AFR
+controller = AFR
+add_core = AFR
+trade_goods = grain
+life_rating = 35
+naval_base = 1

@@ -1,0 +1,5 @@
+owner = LAV
+controller = LAV
+add_core = LAV
+trade_goods = fruit
+life_rating = 39

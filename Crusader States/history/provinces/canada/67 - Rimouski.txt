@@ -1,0 +1,7 @@
+owner = ACD
+controller = ACD
+add_core = ACD
+trade_goods = grain
+life_rating = 31
+colonial = 2
+1861.1.1 = { railroad = 2 }

@@ -1,0 +1,6 @@
+owner = HNC
+controller = HNC
+add_core = HNC
+add_core = MEC
+trade_goods = fish
+life_rating = 40

@@ -1,0 +1,7 @@
+owner = PRC
+controller = PRC
+add_core = PRC
+add_core = ROM
+add_core = MOL
+trade_goods = fruit
+life_rating = 35

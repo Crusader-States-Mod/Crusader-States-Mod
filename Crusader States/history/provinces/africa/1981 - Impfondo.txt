@@ -1,0 +1,7 @@
+owner = HRE
+controller = HRE
+add_core = HRE
+add_core = PIS
+trade_goods = iron
+life_rating = 31
+terrain = small_island

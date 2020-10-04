@@ -1,0 +1,9 @@
+owner = ECA
+controller = ECA
+add_core = ECA
+trade_goods = grain
+life_rating = 35
+party_loyalty = {
+	ideology = conservative
+	loyalty_value = 25
+}

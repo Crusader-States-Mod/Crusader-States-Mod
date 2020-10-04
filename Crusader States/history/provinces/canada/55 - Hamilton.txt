@@ -1,0 +1,5 @@
+owner = ACD
+controller = ACD
+add_core = ACD
+trade_goods = fish
+life_rating = 35

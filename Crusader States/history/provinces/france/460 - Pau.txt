@@ -1,0 +1,6 @@
+owner = HIS
+controller = HIS
+add_core = HIS
+add_core = BSQ
+trade_goods = grain
+life_rating = 31

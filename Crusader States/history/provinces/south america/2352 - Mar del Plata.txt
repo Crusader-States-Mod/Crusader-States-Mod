@@ -1,0 +1,6 @@
+owner = ECA
+controller = ECA
+add_core = ECA
+trade_goods = cattle
+terrain = farmlands
+life_rating = 35

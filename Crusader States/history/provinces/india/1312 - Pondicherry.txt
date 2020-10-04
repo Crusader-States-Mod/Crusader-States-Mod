@@ -1,0 +1,6 @@
+owner = FRA
+controller = FRA
+add_core = VIJ
+add_core = BHA
+trade_goods = fish
+life_rating = 32

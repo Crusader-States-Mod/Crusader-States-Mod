@@ -1,0 +1,5 @@
+owner = MSL
+controller = MSL
+add_core = MSL
+trade_goods = cattle
+life_rating = 10

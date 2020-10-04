@@ -1,0 +1,5 @@
+owner = ECA
+controller = ECA
+add_core = ECA
+trade_goods = tropical_wood
+life_rating = 35

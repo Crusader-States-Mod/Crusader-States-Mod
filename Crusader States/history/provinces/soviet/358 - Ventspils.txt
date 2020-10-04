@@ -1,0 +1,6 @@
+owner = TEU
+controller = TEU
+add_core = TEU
+add_core = LIV
+trade_goods = fish
+life_rating = 35

@@ -1,0 +1,6 @@
+owner = TSA
+controller = TSA
+colonial = 2
+add_core = KAZ
+trade_goods = coal
+life_rating = 35

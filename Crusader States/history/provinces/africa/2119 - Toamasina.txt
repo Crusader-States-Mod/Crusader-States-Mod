@@ -1,0 +1,6 @@
+owner = VEN
+controller = VEN
+add_core = MAD
+terrain = jungle
+trade_goods = fruit
+life_rating = 35

@@ -1,0 +1,8 @@
+owner = BNT
+controller = BNT
+add_core = BNT
+trade_goods = cattle
+life_rating = 35
+naval_base = 1
+railroad = 1
+1861.1.1 = { railroad = 3 }

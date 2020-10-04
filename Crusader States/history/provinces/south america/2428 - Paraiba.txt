@@ -1,0 +1,6 @@
+owner = RHA
+controller = RHA
+add_core = RHA
+trade_goods = fruit
+terrain = farmlands
+life_rating = 35

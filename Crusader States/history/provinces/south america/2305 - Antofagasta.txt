@@ -1,0 +1,7 @@
+owner = HIB
+controller = HIB
+add_core = HIB
+trade_goods = wool
+terrain = new_world_desert
+life_rating = 15
+naval_base = 1

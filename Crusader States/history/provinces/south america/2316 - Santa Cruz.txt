@@ -1,0 +1,5 @@
+owner = HIB
+controller = HIB
+add_core = HIB
+trade_goods = fruit
+life_rating = 32

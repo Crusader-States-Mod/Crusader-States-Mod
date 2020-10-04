@@ -1,0 +1,6 @@
+owner = BNT
+controller = BNT
+add_core = BNT
+trade_goods = coal
+life_rating = 35
+terrain = mining_district

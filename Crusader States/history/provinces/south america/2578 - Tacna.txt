@@ -1,0 +1,6 @@
+owner = HIB
+controller = HIB
+add_core = HIB
+trade_goods = sulphur
+terrain = new_world_semidesert
+life_rating = 31

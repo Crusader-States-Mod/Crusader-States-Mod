@@ -1,0 +1,6 @@
+owner = HNC
+controller = HNC
+add_core = HNC
+add_core = OLD
+trade_goods = coal
+life_rating = 40

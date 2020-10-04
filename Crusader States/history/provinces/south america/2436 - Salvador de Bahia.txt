@@ -1,0 +1,5 @@
+owner = RHA
+controller = RHA
+add_core = RHA
+trade_goods = tobacco
+life_rating = 35

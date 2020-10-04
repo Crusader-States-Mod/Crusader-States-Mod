@@ -1,0 +1,5 @@
+owner = MYN
+controller = MYN
+add_core = MYN
+trade_goods = fish
+life_rating = 35

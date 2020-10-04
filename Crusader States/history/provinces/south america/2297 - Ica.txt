@@ -1,0 +1,6 @@
+owner = HIB
+controller = HIB
+add_core = HIB
+trade_goods = fish
+terrain = dryhills
+life_rating = 35

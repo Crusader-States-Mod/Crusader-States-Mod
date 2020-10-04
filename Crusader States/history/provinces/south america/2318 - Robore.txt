@@ -1,0 +1,6 @@
+owner = HIB
+controller = HIB
+add_core = HIB
+trade_goods = wool
+terrain = savanna
+life_rating = 31

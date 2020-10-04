@@ -1,0 +1,6 @@
+owner = HNC
+controller = HNC
+add_core = HNC
+add_core = BRE
+trade_goods = cattle
+life_rating = 40

@@ -1,0 +1,8 @@
+owner = TEU
+controller = TEU
+add_core = TEU
+add_core = LIV
+trade_goods = grain
+life_rating = 40
+fort = 1
+naval_base = 2

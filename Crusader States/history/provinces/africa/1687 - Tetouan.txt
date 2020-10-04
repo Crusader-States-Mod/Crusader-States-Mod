@@ -1,0 +1,6 @@
+owner = HIS
+controller = HIS
+add_core = HIS
+add_core = MOR
+trade_goods = grain
+life_rating = 35

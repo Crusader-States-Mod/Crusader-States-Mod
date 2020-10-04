@@ -1,0 +1,8 @@
+owner = HNC
+controller = HNC
+add_core = HNC
+add_core = HOL
+trade_goods = grain
+life_rating = 40
+
+1861.1.1 = { railroad = 3 }

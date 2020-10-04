@@ -1,0 +1,6 @@
+owner = WCA
+controller = WCA
+add_core = WCA
+trade_goods = fruit
+terrain = dryhills
+life_rating = 15

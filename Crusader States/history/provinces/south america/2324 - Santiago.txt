@@ -1,0 +1,5 @@
+owner = WCA
+controller = WCA
+add_core = WCA
+trade_goods = grain
+life_rating = 39

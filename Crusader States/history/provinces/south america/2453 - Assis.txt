@@ -1,0 +1,5 @@
+owner = RHA
+controller = RHA
+add_core = RHA
+trade_goods = cattle
+life_rating = 35

@@ -1,0 +1,6 @@
+owner = MSL
+controller = MSL
+add_core = MSL
+trade_goods = grain
+terrain = semidesert
+life_rating = 10

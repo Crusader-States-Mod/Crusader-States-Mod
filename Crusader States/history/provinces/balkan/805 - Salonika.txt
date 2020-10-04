@@ -1,0 +1,5 @@
+owner = LTN
+controller = LTN
+add_core = LTN
+trade_goods = cotton
+life_rating = 35
