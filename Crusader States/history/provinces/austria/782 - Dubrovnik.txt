@@ -1,7 +1,7 @@
 owner = VEN
 controller = VEN
-add_core = CRO
-add_core = DLM
 add_core = VEN
+add_core = CRO
+add_core = ILL
 trade_goods = fish
 life_rating = 35

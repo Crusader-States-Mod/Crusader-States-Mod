@@ -1,6 +1,6 @@
-owner = OMA
-controller = OMA
-add_core = OMA
+owner = ARA
+controller = ARA
+add_core = ARA
 trade_goods = fish
 life_rating = 20
 terrain = desert

@@ -1,5 +1,6 @@
-owner = LUS
-controller = LUS
-add_core = LUS
+owner = GUI
+controller = GUI
+add_core = GUI
+add_core = AMZ
 trade_goods = timber
 life_rating = 31

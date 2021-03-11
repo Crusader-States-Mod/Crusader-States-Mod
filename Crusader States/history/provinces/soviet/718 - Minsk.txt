@@ -1,6 +1,6 @@
-owner = PRC
-controller = PRC
-add_core = PRC
+owner = LIT
+controller = LIT
+add_core = LIT
 add_core = RUT
 trade_goods = timber
 life_rating = 40

@@ -1,6 +1,7 @@
-owner = TSA
-controller = TSA
-add_core = TSA
-add_core = KRL
+owner = SWE
+controller = SWE
+add_core = SWE
+add_core = FIN
+add_core = NTL
 trade_goods = iron
 life_rating = 10

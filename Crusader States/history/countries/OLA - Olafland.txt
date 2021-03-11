@@ -1,5 +1,5 @@
 capital = 204
-primary_culture = norwegian
+primary_culture = afro_scandinavian
 religion = catholic
 government = hms_government
 plurality = 0.0
@@ -80,4 +80,4 @@ basic_chemistry = 1
 consciousness = 1
 nonstate_consciousness = 0
 
-schools = industrial_tech_school
+set_country_flag = new_world_nation

@@ -69,45 +69,45 @@
 #Asuncion (368000/92000 POPS)
 2339 = {
 	aristocrats = {
-		culture = platinean
+		culture = carolinian
 		religion = catholic
 		size = 1850
 	}
 
 	bureaucrats = {
-		culture = platinean
+		culture = carolinian
 		religion = catholic
 		size = 200
 	}
 
 	officers = {
-		culture = platinean
+		culture = carolinian
 		religion = catholic
 		size = 300
 	}
 
 	clergymen = {
-		culture = platinean
+		culture = carolinian
 		religion = catholic
 		size = 775
 	}
 
 	artisans = {
-		culture = platinean
+		culture = carolinian
 		religion = catholic
 		size = 4200
 	}
 
 	soldiers = {
-		culture = platinean
+		culture = carolinian
 		religion = catholic
-		size = 20100
+		size = 10100
 	}
 
 	farmers = {
-		culture = platinean
+		culture = carolinian
 		religion = catholic
-		size = 66825
+		size = 6825
 	}
 
 	clergymen = {
@@ -134,64 +134,40 @@
 		size = 38425
 	}
 
-	clergymen = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 250
-	}
-
-	soldiers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 50
-	}
-
-	farmers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 150
-	}
-
 	slaves = {
-		culture = afro_caribeno
+		culture = afro_english
 		religion = catholic
-		size = 9500
+		size = 10000
 	}
 }
 #Pilar (68000/17000 POPS)
 2340 = {
 	aristocrats = {
-		culture = platinean
+		culture = carolinian
 		religion = catholic
 		size = 350
 	}
 
 	clergymen = {
-		culture = platinean
+		culture = carolinian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = platinean
+		culture = carolinian
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = platinean
+		culture = carolinian
 		religion = catholic
 		size = 50
 	}
 
-	farmers = {
-		culture = platinean
+	slaves = {
+		culture = afro_english
 		religion = catholic
 		size = 3300
 	}
@@ -247,33 +223,39 @@
 #Encarnacion (100000/25000 POPS)
 2341 = {
 	aristocrats = {
-		culture = platinean
+		culture = carolinian
 		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = platinean
+		culture = carolinian
 		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = platinean
+		culture = carolinian
 		religion = catholic
 		size = 1200
 	}
 
 	soldiers = {
-		culture = platinean
+		culture = carolinian
 		religion = catholic
 		size = 1050
 	}
 
 	farmers = {
-		culture = platinean
+		culture = carolinian
 		religion = catholic
-		size = 8125
+		size = 6000
+	}
+
+	slaves = {
+		culture = afro_english
+		religion = catholic
+		size = 2125
 	}
 
 	clergymen = {
@@ -327,31 +309,31 @@
 #San Pedro (84000/21000 POPS)
 2342 = {
 	aristocrats = {
-		culture = platinean
+		culture = carolinian
 		religion = catholic
 		size = 425
 	}
 
 	clergymen = {
-		culture = platinean
+		culture = carolinian
 		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = platinean
+		culture = carolinian
 		religion = catholic
 		size = 1200
 	}
 
 	soldiers = {
-		culture = platinean
+		culture = carolinian
 		religion = catholic
 		size = 1050
 	}
 
 	farmers = {
-		culture = platinean
+		culture = carolinian
 		religion = catholic
 		size = 7200
 	}
@@ -405,7 +387,7 @@
 	}
 
 	slaves = {
-		culture = afro_caribeno
+		culture = afro_english
 		religion = catholic
 		size = 2500
 	}
@@ -413,25 +395,25 @@
 #Concepcion (16000/4000 POPS)
 2343 = {
 	clergymen = {
-		culture = platinean
+		culture = carolinian
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = platinean
+		culture = carolinian
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = platinean
+		culture = carolinian
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = platinean
+		culture = carolinian
 		religion = catholic
 		size = 900
 	}

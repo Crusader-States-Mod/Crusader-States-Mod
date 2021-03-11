@@ -3,38 +3,38 @@
 #Baalbeck (68000/17000 POPS) #now part of Lebanon
 912 = {
 	aristocrats = {
-		culture = mashriqi
-		religion = shiite
+		culture = frankish
+		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = shiite
+		culture = syrian
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = mashriqi
-		religion = shiite
+		culture = syrian
+		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
-		culture = mashriqi
-		religion = shiite
+		culture = syrian
+		religion = catholic
 		size = 175
 	}
 
 	farmers = {
-		culture = mashriqi
-		religion = shiite
+		culture = syrian
+		religion = catholic
 		size = 7425
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = sunni
+		culture = syrian
+		religion = catholic
 		size = 100
 	}
 
@@ -51,63 +51,63 @@
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = orthodox
+		culture = sephardic
+		religion = jewish
 		size = 100
 	}
 
 	artisans = {
-		culture = mashriqi
-		religion = orthodox
+		culture = syrian
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = mashriqi
-		religion = orthodox
+		culture = sephardic
+		religion = jewish
 		size = 1000
 	}
 	
 	clergymen = {
-		culture = mashriqi
+		culture = syrian
 		religion = catholic
 		size = 100
 	}
 	
 	artisans = {
-		culture = mashriqi
+		culture = syrian
 		religion = catholic
 		size = 100
 	}
 	
 	farmers = {
 		culture = mashriqi
-		religion = catholic
+		religion = shiite
 		size = 2000
 	}
 	
 	aristocrats = {
-		culture = mashriqi
-		religion = druze
+		culture = syrian
+		religion = catholic
 		size = 100
 	}
 	
 	clergymen = {
-		culture = mashriqi
-		religion = druze
+		culture = syrian
+		religion = catholic
 		size = 100
 	}
 	
 	artisans = {
-		culture = mashriqi
-		religion = druze
+		culture = syrian
+		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = mashriqi
-		religion = druze
-		size = 3725
+		culture = frankish
+		religion = catholic
+		size = 23725
 	}
 }
 #Bayrut Region (260000)  #see Israel-Palestine.txt for balance of region
@@ -115,20 +115,20 @@
 #Beirut (128000/32000 POPS) #mashriqi-catholic = maronites
 913 = {
 	aristocrats = {
-		culture = mashriqi
-		religion = shiite
+		culture = syrian
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = shiite
+		culture = syrian
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = mashriqi
-		religion = shiite
+		culture = syrian
+		religion = catholic
 		size = 125
 	}
 
@@ -139,122 +139,122 @@
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = orthodox
+		culture = syrian
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = mashriqi
-		religion = orthodox
+		culture = syrian
+		religion = catholic
 		size = 125
 	}
 
 	farmers = {
-		culture = mashriqi
-		religion = orthodox
-		size = 2625
+		culture = syrian
+		religion = catholic
+		size = 10625
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = syrian
 		religion = catholic
 		size = 150
 	}
 	
 	bureaucrats = {
-		culture = mashriqi
+		culture = syrian
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = syrian
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = syrian
 		religion = catholic
 		size = 950
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = frankish
 		religion = catholic
-		size = 19100
+		size = 29100
 	}
 	
 	soldiers = {
-		culture = mashriqi
+		culture = syrian
 		religion = catholic
 		size = 325
 	}
 	
 	officers = {
-		culture = mashriqi
-		religion = sunni
+		culture = syrian
+		religion = catholic
 		size = 100
 	}
 	
 	clergymen = {
-		culture = mashriqi
-		religion = sunni
+		culture = syrian
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = mashriqi
-		religion = sunni
+		culture = sephardic
+		religion = jewish
 		size = 125
 	}
 
 	farmers = {
-		culture = mashriqi
-		religion = sunni
+		culture = sephardic
+		religion = jewish
 		size = 1075
 	}
 	
 	aristocrats = {
-		culture = mashriqi
-		religion = druze
+		culture = syrian
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = druze
+		culture = syrian
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = mashriqi
-		religion = druze
+		culture = syrian
+		religion = catholic
 		size = 200
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = druze
+		religion = sunni
 		size = 3625
 	}
 
 	clergymen = {
-		culture = armenian
-		religion = orthodox
+		culture = syrian
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = armenian
-		religion = orthodox
+		culture = syrian
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = armenian
-		religion = orthodox
+		culture = syrian
+		religion = catholic
 		size = 1325
 	}
 
@@ -272,57 +272,81 @@
 }
 #Askaleh (48000/12000 POPS) 
 914 = {
+	artisans = {
+		culture = frankish
+		religion = catholic
+		size = 5500
+	}
+
+	farmers = {
+		culture = frankish
+		religion = catholic
+		size = 14325
+	}
+
 	aristocrats = {
-		culture = mashriqi
-		religion = sunni
+		culture = syrian
+		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = sunni
+		culture = syrian
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = mashriqi
-		religion = sunni
+		culture = syrian
+		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = mashriqi
-		religion = sunni
+		culture = syrian
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = mashriqi
-		religion = sunni
-		size = 8275
+		culture = syrian
+		religion = catholic
+		size = 17275
+	}
+
+	farmers = {
+		culture = frankish
+		religion = catholic
+		size = 24275
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 2000
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = orthodox
+		culture = syrian
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = mashriqi
-		religion = orthodox
+		culture = syrian
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = orthodox
+		religion = sunni
 		size = 1875
 	}
 	
 	clergymen = {
-		culture = mashriqi
-		religion = shiite
+		culture = syrian
+		religion = catholic
 		size = 100
 	}
 
@@ -335,26 +359,26 @@
 #Sidon (84000/21000 POPS) 
 915 = {
 	aristocrats = {
-		culture = mashriqi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = mashriqi
-		religion = sunni
+		culture = syrian
+		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = mashriqi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 25
 	}
 
@@ -365,56 +389,56 @@
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = orthodox
+		culture = syrian
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = mashriqi
-		religion = orthodox
+		culture = syrian
+		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = mashriqi
-		religion = orthodox
+		culture = syrian
+		religion = catholic
 		size = 925
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = syrian
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = syrian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = syrian
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = syrian
 		religion = catholic
 		size = 2050
 	}
 
 	aristocrats = {
-		culture = mashriqi
-		religion = shiite
+		culture = syrian
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = shiite
+		culture = syrian
+		religion = catholic
 		size = 75
 	}
 
@@ -425,8 +449,14 @@
 	}
 
 	farmers = {
-		culture = mashriqi
-		religion = shiite
+		culture = syrian
+		religion = catholic
+		size = 11350
+	}
+
+	farmers = {
+		culture = frankish
+		religion = catholic
 		size = 11350
 	}
 

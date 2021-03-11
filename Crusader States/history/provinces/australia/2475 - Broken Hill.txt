@@ -1,4 +1,4 @@
-add_core = SOD
+add_core = NBE
 trade_goods = grain
 terrain = savanna
 life_rating = 20

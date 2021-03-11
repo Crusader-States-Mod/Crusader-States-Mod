@@ -1,6 +1,8 @@
-owner = HNC
-controller = HNC
+owner = DEN
+controller = DEN
+add_core = DEN
+add_core = POM
 add_core = HNC
-add_core = MEC
+add_core = GER
 trade_goods = fish
 life_rating = 40

@@ -1,6 +1,7 @@
-owner = HIS
-controller = HIS
+owner = GOT
+controller = GOT
+add_core = GOT
+add_core = AGN
 add_core = HIS
-add_core = CAT
 trade_goods = grain
 life_rating = 31

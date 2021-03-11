@@ -1,22 +1,25 @@
-capital = 223
-primary_culture = swedish
+capital = 530
+primary_culture = hansa
+culture = danish
+culture = dutch
 religion = catholic
-government = hms_government
+government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_order
 literacy = 0.8
+non_state_culture_literacy = 0.01
 civilized = yes
-prestige = 10
+prestige = 5
 
 # Political reforms
-slavery = yes_slavery
-upper_house_composition = state_equal_weight
-vote_franschise = landed_voting
+slavery = no_slavery
+upper_house_composition = appointed
+vote_franschise = none_voting
 public_meetings = yes_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
-voting_system = proportional_representation
-political_parties = non_secret_ballots
+voting_system = first_past_the_post
+political_parties = underground_parties
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -35,14 +38,15 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = open_borders
 
-set_country_flag = protestant_country
+set_country_flag = catholic_country
+decision = hanseatic_setup
 
-ruling_party = SWE_conservative
-last_election = 1833.1.1
+ruling_party = german_conservative
+
 upper_house = {
 	fascist = 0
-	liberal = 35
-	conservative = 60
+	liberal = 37
+	conservative = 58
 	reactionary = 5
 	anarcho_liberal = 0
 	socialist = 0
@@ -50,7 +54,7 @@ upper_house = {
 }
 
 
-#Technologies
+# Technologies
 post_napoleonic_thought = 1
 flintlock_rifles = 1
 bronze_muzzle_loaded_artillery = 1
@@ -77,10 +81,9 @@ hot_blast = 1
 basic_chemistry = 1
 
 #Inventions
-#corvettes = yes
 
 # Starting Consciousness
-consciousness = 2
-nonstate_consciousness = 0
+consciousness = 3
+nonstate_consciousness = 1
 
-schools = industrial_tech_school
+schools = commerce_tech_school

@@ -1,10 +1,10 @@
 capital = 767
-primary_culture = north_german
-religion = protestant
+primary_culture = austrian
+religion = catholic
 government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_order
-literacy = 0.8
+literacy = 0.35
 civilized = yes
 prestige = 5
 
@@ -35,7 +35,7 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = open_borders
 
-set_country_flag = protestant_country
+set_country_flag = catholic_country
 
 ruling_party = BRA_conservative_2
 upper_house = {

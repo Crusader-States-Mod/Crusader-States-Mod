@@ -1,6 +1,5 @@
 capital = 749
-primary_culture = south_italian
-culture = north_italian
+primary_culture = italian
 religion = catholic
 government = theocracy
 plurality = 25.0
@@ -33,7 +32,8 @@ school_reforms = no_schools
 conscription = no_draft
 debt_law = debtors_prisons
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = catholic_country

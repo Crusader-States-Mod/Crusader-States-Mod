@@ -44,31 +44,31 @@
 	}
 
 	aristocrats = {
-		culture = kirgiz
+		culture = kazak
 		religion = animist
 		size = 225
 	}
 
 	clergymen = {
-		culture = kirgiz
+		culture = kazak
 		religion = animist
 		size = 125
 	}
 
 	artisans = {
-		culture = kirgiz
+		culture = kazak
 		religion = animist
 		size = 650
 	}
 
 	soldiers = {
-		culture = kirgiz
+		culture = kazak
 		religion = animist
 		size = 250
 	}
 
 	farmers = {
-		culture = kirgiz
+		culture = kazak
 		religion = animist
 		size = 11750
 	}

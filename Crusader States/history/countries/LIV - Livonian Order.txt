@@ -1,5 +1,6 @@
 capital = 354
-primary_culture = baltic_german
+primary_culture = livonian
+culture = prussian
 religion = catholic
 government = absolute_monarchy
 plurality = 25.0

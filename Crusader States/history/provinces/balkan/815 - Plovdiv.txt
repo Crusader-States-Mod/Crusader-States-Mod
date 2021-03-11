@@ -1,5 +1,7 @@
-owner = BUL
-controller = BUL
+owner = ERE
+controller = ERE
+add_core = ERE
 add_core = BUL
+add_core = DNB
 trade_goods = tobacco
 life_rating = 35

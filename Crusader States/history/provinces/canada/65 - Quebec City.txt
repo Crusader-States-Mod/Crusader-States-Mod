@@ -1,7 +1,6 @@
-owner = ACD
-controller = ACD
-add_core = ACD
+owner = LAU
+controller = LAU
+add_core = LAU
 trade_goods = grain
 life_rating = 35
-colonial = 2
 naval_base = 1

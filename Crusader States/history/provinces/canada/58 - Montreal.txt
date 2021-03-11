@@ -1,6 +1,5 @@
-owner = ACD
-controller = ACD
-add_core = ACD
+owner = LAU
+controller = LAU
+add_core = LAU
 trade_goods = cattle
 life_rating = 38
-colonial = 2

@@ -1,7 +1,7 @@
-owner = HIS
-controller = HIS
-add_core = HIS
-add_core = CAT
+owner = VEN
+controller = VEN
+add_core = VEN
+add_core = ROM
 trade_goods = cattle
 life_rating = 35
 1861.1.1 = { railroad = 3 }

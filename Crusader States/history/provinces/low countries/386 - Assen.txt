@@ -1,5 +1,7 @@
 owner = HLL
 controller = HLL
 add_core = HLL
+add_core = HNC
+add_core = GER
 trade_goods = wool
 life_rating = 35

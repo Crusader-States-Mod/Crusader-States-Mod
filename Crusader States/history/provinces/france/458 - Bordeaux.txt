@@ -1,6 +1,7 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = GOT
+controller = GOT
+add_core = GOT
+add_core = HIS
 trade_goods = wool
 life_rating = 31
 terrain = forest

@@ -1,6 +1,7 @@
-owner = RHA
-controller = RHA
-add_core = RHA
+owner = GUI
+controller = GUI
+add_core = GUI
+add_core = AMZ
 trade_goods = grain
 terrain = new_world_semidesert
 life_rating = 31

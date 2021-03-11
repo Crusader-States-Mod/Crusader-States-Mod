@@ -1097,8 +1097,8 @@
 	}
 
 	bureaucrats = {
-		culture = british
-		religion = protestant
+		culture = north_german
+		religion = catholic
 		size = 25
 	}
 }
@@ -1212,8 +1212,8 @@
 #Sittwe (176000/44000 POPS)
 1345 = {
 	bureaucrats = {
-		culture = british
-		religion = protestant
+		culture = venetian
+		religion = catholic
 		size = 10
 	}
 

@@ -3,75 +3,87 @@
 #Tripoli (172000/43000 POPS) 
 1731 = {
 	aristocrats = {
-		culture = maghrebi
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 550
 	}
 
 	bureaucrats = {
-		culture = maghrebi
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 50
 	}
 
 	officers = {
-		culture = maghrebi
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = maghrebi
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 275
 	}
 
 	artisans = {
-		culture = maghrebi
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 3150
 	}
 
 	soldiers = {
-		culture = maghrebi
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = maghrebi
-		religion = sunni
-		size = 22900
+		culture = norman_sicilian
+		religion = catholic
+		size = 27900
 	}
 
 	aristocrats = {
-		culture = bedouin
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
-		culture = bedouin
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
-		culture = bedouin
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 75
 	}
 
 	farmers = {
+		culture = norman_sicilian
+		religion = catholic
+		size = 25075
+	}
+
+	slaves = {
 		culture = bedouin
 		religion = sunni
-		size = 63075
+		size = 10000
+	}
+
+	slaves = {
+		culture = maghrebi
+		religion = sunni
+		size = 20000
 	}
 
 	slaves = {
@@ -95,63 +107,69 @@
 #Gharyan (40000/10000 POPS)
 1732 = {
 	aristocrats = {
-		culture = maghrebi
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = maghrebi
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = maghrebi
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
 		culture = maghrebi
 		religion = sunni
-		size = 1100
+		size = 2100
 	}
 
 	farmers = {
-		culture = maghrebi
-		religion = sunni
-		size = 1725
+		culture = norman_sicilian
+		religion = catholic
+		size = 725
 	}
 
 	aristocrats = {
-		culture = bedouin
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = bedouin
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = bedouin
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 50
 	}
 
-	farmers = {
+	slaves = {
 		culture = bedouin
 		religion = sunni
-		size = 4550
+		size = 1000
+	}
+
+	slaves = {
+		culture = maghrebi
+		religion = sunni
+		size = 3550
 	}
 
 	slaves = {
@@ -163,63 +181,75 @@
 #Misratah (84000/21000 POPS)
 1733 = {
 	aristocrats = {
-		culture = maghrebi
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 175
 	}
 
 	clergymen = {
-		culture = maghrebi
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = maghrebi
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = maghrebi
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
+		culture = norman_sicilian
+		religion = catholic
+		size = 5125
+	}
+
+	farmers = {
 		culture = maghrebi
 		religion = sunni
-		size = 10125
+		size = 5000
 	}
 
 	aristocrats = {
-		culture = bedouin
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
-		culture = bedouin
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 275
 	}
 
 	soldiers = {
-		culture = bedouin
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 1100
 	}
 
-	farmers = {
+	slaves = {
 		culture = bedouin
 		religion = sunni
-		size = 4250
+		size = 1000
+	}
+
+	slaves = {
+		culture = maghrebi
+		religion = sunni
+		size = 3250
 	}
 
 	slaves = {
@@ -243,26 +273,26 @@
 #Sirt (100000/25000 POPS)
 1734 = {
 	aristocrats = {
-		culture = maghrebi
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = maghrebi
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = maghrebi
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
-		culture = maghrebi
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 75
 	}
 
@@ -273,33 +303,39 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 225
 	}
 
 	clergymen = {
-		culture = bedouin
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = bedouin
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 650
 	}
 
 	soldiers = {
-		culture = bedouin
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 1100
 	}
 
-	farmers = {
+	slaves = {
 		culture = bedouin
 		religion = sunni
-		size = 10000
+		size = 3000
+	}
+
+	slaves = {
+		culture = maghrebi
+		religion = sunni
+		size = 7000
 	}
 
 	slaves = {
@@ -313,81 +349,93 @@
 #Benghazi (124000/31000 POPS)
 1735 = {
 	aristocrats = {
-		culture = maghrebi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 275
 	}
 
 	bureaucrats = {
-		culture = maghrebi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 25
 	}
 
 	officers = {
-		culture = maghrebi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = maghrebi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = maghrebi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 735
 	}
 
 	soldiers = {
-		culture = maghrebi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = maghrebi
-		religion = sunni
-		size = 14025
+		culture = coptic
+		religion = catholic
+		size = 9025
+	}
+
+	farmers = {
+		culture = coptic
+		religion = coptic
+		size = 5000
 	}
 
 	aristocrats = {
-		culture = bedouin
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 175
 	}
 
 	clergymen = {
-		culture = bedouin
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = bedouin
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 100
 	}
 
-	farmers = {
+	slaves = {
+		culture = maghrebi
+		religion = sunni
+		size = 8000
+	}
+
+	slaves = {
 		culture = bedouin
 		religion = sunni
-		size = 9150
+		size = 3000
 	}
 
 	slaves = {
 		culture = forest_bantu
 		religion = animist
-		size = 6000
+		size = 4000
 	}
 
 	clergymen = {
@@ -405,63 +453,149 @@
 #Darnah (60000/15000 POPS)
 1736 = {
 	aristocrats = {
-		culture = maghrebi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = maghrebi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = maghrebi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = maghrebi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = maghrebi
-		religion = sunni
-		size = 4575
+		culture = coptic
+		religion = catholic
+		size = 3575
+	}
+
+	farmers = {
+		culture = coptic
+		religion = catholic
+		size = 1000
 	}
 
 	aristocrats = {
-		culture = bedouin
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
-		culture = bedouin
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
-		culture = bedouin
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 75
 	}
 
-	farmers = {
+	slaves = {
+		culture = maghrebi
+		religion = sunni
+		size = 3000
+	}
+
+	slaves = {
 		culture = bedouin
 		religion = sunni
-		size = 7325
+		size = 5325
+	}
+
+	slaves = {
+		culture = forest_bantu
+		religion = animist
+		size = 1000
+	}
+}
+#Tobruk (48000/12000 POPS)
+1737 = {
+	aristocrats = {
+		culture = frankish
+		religion = catholic
+		size = 25
+	}
+
+	clergymen = {
+		culture = frankish
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = frankish
+		religion = catholic
+		size = 150
+	}
+
+	soldiers = {
+		culture = frankish
+		religion = catholic
+		size = 25
+	}
+
+	farmers = {
+		culture = frankish
+		religion = catholic
+		size = 700
+	}
+
+	aristocrats = {
+		culture = frankish
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = frankish
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = coptic
+		religion = coptic
+		size = 300
+	}
+
+	farmers = {
+		culture = coptic
+		religion = coptic
+		size = 2000
+	}
+
+	soldiers = {
+		culture = coptic
+		religion = coptic
+		size = 50
+	}
+
+	slaves = {
+		culture = bedouin
+		religion = sunni
+		size = 3500
 	}
 
 	slaves = {
@@ -470,87 +604,19 @@
 		size = 2000
 	}
 }
-#Tobruk (48000/12000 POPS)
-1737 = {
-	aristocrats = {
-		culture = maghrebi
-		religion = sunni
-		size = 25
-	}
-
-	clergymen = {
-		culture = maghrebi
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = maghrebi
-		religion = sunni
-		size = 150
-	}
-
-	soldiers = {
-		culture = maghrebi
-		religion = sunni
-		size = 25
-	}
-
-	farmers = {
-		culture = maghrebi
-		religion = sunni
-		size = 2700
-	}
-
-	aristocrats = {
-		culture = bedouin
-		religion = sunni
-		size = 100
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 300
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = sunni
-		size = 50
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 5500
-	}
-
-	slaves = {
-		culture = forest_bantu
-		religion = animist
-		size = 3000
-	}
-}
 #Kufrah Region (48000)  
 #uncolonized in 1836
 #Jaghbub (12000/3000 POPS)
 1738 = {
 	aristocrats = {
-		culture = maghrebi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = maghrebi
-		religion = sunni
+		culture = coptic
+		religion = coptic
 		size = 50
 	}
 
@@ -567,70 +633,82 @@
 	}
 
 	farmers = {
+		culture = coptic
+		religion = coptic
+		size = 750
+	}
+
+	farmers = {
 		culture = bedouin
 		religion = sunni
-		size = 2750
+		size = 2000
 	}
 }
 
 #Waddan (16000/4000 POPS)
 1740 = {
 	aristocrats = {
-		culture = maghrebi
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = maghrebi
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = maghrebi
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = bedouin
-		religion = sunni
+		culture = norman_sicilian
+		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 2750
+		culture = norman_sicilian
+		religion = catholic
+		size = 750
 	}
 
-	aristocrats = {
+	slaves = {
+		culture = bedouin
+		religion = sunni
+		size = 2000
+	}
+
+	slaves = {
 		culture = tuareg
 		religion = sunni
 		size = 15
 	}
 
-	clergymen = {
+	slaves = {
 		culture = tuareg
 		religion = sunni
 		size = 25
 	}
 
-	artisans = {
+	slaves = {
 		culture = tuareg
 		religion = sunni
 		size = 50
 	}
 
-	soldiers = {
+	slaves = {
 		culture = tuareg
 		religion = sunni
 		size = 10
 	}
 
 	farmers = {
-		culture = tuareg
+		culture = maghrebi
 		religion = sunni
 		size = 900
 	}

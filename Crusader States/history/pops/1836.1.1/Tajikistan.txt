@@ -153,31 +153,31 @@
 	}
 
 	aristocrats = {
-		culture = kirgiz
+		culture = kazak
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = kirgiz
+		culture = kazak
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = kirgiz
+		culture = kazak
 		religion = sunni
 		size = 175
 	}
 
 	soldiers = {
-		culture = kirgiz
+		culture = kazak
 		religion = sunni
 		size = 500
 	}
 
 	farmers = {
-		culture = kirgiz
+		culture = kazak
 		religion = sunni
 		size = 3650
 	}

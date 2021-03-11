@@ -1,7 +1,8 @@
-owner = HRE
-controller = HRE
-add_core = HRE
+owner = BAD
+controller = BAD
 add_core = BAD
+add_core = SGC
+add_core = GER
 trade_goods = fruit
 life_rating = 40
 #state_building = {

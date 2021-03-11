@@ -1,5 +1,8 @@
 capital = 917
-primary_culture = french
+primary_culture = frankish
+culture = syrian
+culture = coptic
+culture = african
 religion = catholic
 government = hms_government
 plurality = 25

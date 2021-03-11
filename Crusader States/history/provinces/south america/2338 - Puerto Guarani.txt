@@ -1,6 +1,6 @@
-owner = WCA
-controller = WCA
-add_core = WCA
+owner = HSP
+controller = HSP
+add_core = HSP
 trade_goods = fish
 terrain = savanna
 life_rating = 15

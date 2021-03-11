@@ -1,5 +1,6 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = GOT
+controller = GOT
+add_core = GOT
+add_core = HIS
 trade_goods = silk
 life_rating = 31

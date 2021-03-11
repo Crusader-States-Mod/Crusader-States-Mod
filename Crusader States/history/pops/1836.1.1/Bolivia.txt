@@ -3,49 +3,49 @@
 #La Paz (392000/98000 POPS)
 2310 = {
 	aristocrats = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 1100
 	}
 
 	bureaucrats = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 400
 	}
 
 	officers = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 325
 	}
 
 	clergymen = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 650
 	}
 
 	artisans = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 5825
 	}
 
 	soldiers = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 19000
 	}
@@ -86,8 +86,8 @@
 		size = 50
 	}
 
-	farmers = {
-		culture = quechua
+	slaves = {
+		culture = afro_gaelic
 		religion = catholic
 		size = 2775
 	}
@@ -95,31 +95,31 @@
 #Cochabamba (352000/88000 POPS)
 2311 = {
 	aristocrats = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 1700
 	}
 
 	clergymen = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 550
 	}
 
 	artisans = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 1150
 	}
 
 	soldiers = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 2100
 	}
 
 	farmers = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 18600
 	}
@@ -130,8 +130,8 @@
 		size = 300
 	}
 
-	artisans = {
-		culture = quechua
+	slaves = {
+		culture = afro_gaelic
 		religion = catholic
 		size = 3250
 	}
@@ -145,31 +145,31 @@
 #Oruro (40000/10000 POPS)
 2312 = {
 	aristocrats = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 225
 	}
 
 	clergymen = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 2525
 	}
@@ -189,7 +189,13 @@
 	farmers = {
 		culture = aimara
 		religion = catholic
-		size = 6575
+		size = 5000
+	}
+
+	slaves = {
+		culture = afro_gaelic
+		religion = catholic
+		size = 1575
 	}
 }
 #Chuquisaca Region (288000)
@@ -197,43 +203,43 @@
 #Chuquisaca (116000/29000 POPS)
 2313 = {
 	aristocrats = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 600
 	}
 
 	bureaucrats = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 75
 	}
 
 	officers = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 1050
 	}
 
 	farmers = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 3825
 	}
@@ -259,37 +265,43 @@
 	farmers = {
 		culture = quechua
 		religion = catholic
-		size = 23325
+		size = 19325
+	}
+
+	slaves = {
+		culture = quechua
+		religion = catholic
+		size = 4000
 	}
 }
 #Potosi (120000/30000 POPS)
 2314 = {
 	aristocrats = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 625
 	}
 
 	clergymen = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 150
 	}
 
 	artisans = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 2050
 	}
@@ -309,7 +321,13 @@
 	farmers = {
 		culture = aimara
 		religion = catholic
-		size = 25525
+		size = 25000
+	}
+
+	slaves = {
+		culture = afro_gaelic
+		religion = catholic
+		size = 525
 	}
 }
 #Tarija (52000/13000 POPS)
@@ -373,43 +391,43 @@
 #Santa Cruz (16000/4000 POPS)
 2316 = {
 	aristocrats = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 5
 	}
 
 	officers = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 735
 	}
@@ -441,25 +459,25 @@
 #San Ignacio (20000/5000 POPS)
 2317 = {
 	clergymen = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 900
 	}
@@ -561,43 +579,43 @@
 #Santa Ana (76000/19000 POPS)
 2319 = {
 	aristocrats = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 275
 	}
 
 	bureaucrats = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 25
 	}
 
 	officers = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 2400
 	}
@@ -623,7 +641,13 @@
 	farmers = {
 		culture = quechua
 		religion = catholic
-		size = 9350
+		size = 9000
+	}
+
+	farmers = {
+		culture = afro_gaelic
+		religion = catholic
+		size = 350
 	}
 
 	aristocrats = {
@@ -691,31 +715,31 @@
 #Cobija (28000/7000 POPS)
 2321 = {
 	aristocrats = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = south_andean
+		culture = ivernian
 		religion = catholic
 		size = 775
 	}

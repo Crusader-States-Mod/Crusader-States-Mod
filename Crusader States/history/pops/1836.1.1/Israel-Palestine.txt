@@ -3,14 +3,14 @@
 #Acre (52000/13000 POPS) #now part of Israel-Palestine  mashriqi-animist = druze 
 916 = {
 	aristocrats = {
-		culture = mashriqi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 50
 	}
 
@@ -21,9 +21,15 @@
 	}
 
 	soldiers = {
-		culture = mashriqi
-		religion = sunni
-		size = 50
+		culture = frankish
+		religion = catholic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = syrian
+		religion = catholic
+		size = 6000
 	}
 
 	farmers = {
@@ -33,57 +39,63 @@
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = orthodox
+		culture = frankish
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = mashriqi
-		religion = orthodox
+		culture = syrian
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = mashriqi
-		religion = orthodox
+		culture = syrian
+		religion = catholic
 		size = 1875
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = druze
+		culture = syrian
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = mashriqi
-		religion = druze
+		culture = syrian
+		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = mashriqi
-		religion = druze
+		culture = syrian
+		religion = catholic
 		size = 3750
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = shiite
+		culture = syrian
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = mashriqi
-		religion = shiite
+		culture = syrian
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = mashriqi
-		religion = shiite
-		size = 1850
+		culture = syrian
+		religion = catholic
+		size = 11850
+	}
+
+	farmers = {
+		culture = frankish
+		religion = catholic
+		size = 31850
 	}
 	
 	clergymen = {
@@ -101,7 +113,7 @@
 	farmers = {
 		culture = sephardic
 		religion = jewish
-		size = 925
+		size = 4925
 	}
 }
 #Palestine Region (236000)  #see Jordan.txt for balance of region
@@ -109,26 +121,26 @@
 #Jerusalem (68000/17000 POPS)
 917 = {
 	aristocrats = {
-		culture = mashriqi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 200
 	}
 
 	bureaucrats = {
-		culture = mashriqi
-		religion = sunni
-		size = 50
+		culture = frankish
+		religion = catholic
+		size = 300
 	}
 
 	officers = {
-		culture = mashriqi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 100
 	}
 
@@ -139,8 +151,8 @@
 	}
 
 	soldiers = {
-		culture = mashriqi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 175
 	}
 
@@ -151,26 +163,26 @@
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = orthodox
+		culture = frankish
+		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = mashriqi
-		religion = orthodox
+		culture = frankish
+		religion = catholic
 		size = 825
 	}
 
 	farmers = {
-		culture = mashriqi
-		religion = orthodox
-		size = 3100
+		culture = syrian
+		religion = catholic
+		size = 60100
 	}
 
 	farmers = {
-		culture = circassian
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 100
 	}
 	
@@ -189,88 +201,112 @@
 	farmers = {
 		culture = sephardic
 		religion = jewish
-		size = 1175
+		size = 21175
+	}
+
+	soldiers = {
+		culture = syrian
+		religion = catholic
+		size = 10000
+	}
+
+	soldiers = {
+		culture = frankish
+		religion = catholic
+		size = 13000
+	}
+
+	farmers = {
+		culture = frankish
+		religion = catholic
+		size = 70000
 	}
 }
 #Nablus (44000/11000 POPS)
 918 = {
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 1000
+	}
+
 	aristocrats = {
-		culture = mashriqi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = mashriqi
-		religion = sunni
-		size = 1025
+		culture = frankish
+		religion = catholic
+		size = 3000
 	}
 
 	soldiers = {
-		culture = mashriqi
-		religion = sunni
+		culture = syrian
+		religion = catholic
 		size = 125
 	}
 
 	farmers = {
-		culture = mashriqi
-		religion = sunni
-		size = 7625
+		culture = syrian
+		religion = catholic
+		size = 15625
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = orthodox
+		culture = syrian
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = mashriqi
-		religion = orthodox
+		culture = syrian
+		religion = catholic
 		size = 125
 	}
 
 	farmers = {
-		culture = mashriqi
-		religion = orthodox
+		culture = syrian
+		religion = catholic
 		size = 850
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = druze
+		culture = syrian
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = mashriqi
-		religion = druze
+		culture = syrian
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = druze
-		size = 875
+		religion = sunni
+		size = 2875
 	}
 }
 #Jaffa (48000/12000 POPS)
 919 = {
 	aristocrats = {
-		culture = mashriqi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 100
 	}
 
@@ -281,32 +317,38 @@
 	}
 
 	soldiers = {
-		culture = mashriqi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 125
 	}
 
 	farmers = {
-		culture = mashriqi
-		religion = sunni
+		culture = syrian
+		religion = catholic
 		size = 7550
 	}
 
+	farmers = {
+		culture = frankish
+		religion = catholic
+		size = 17550
+	}
+
 	clergymen = {
-		culture = mashriqi
-		religion = orthodox
+		culture = frankish
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = mashriqi
-		religion = orthodox
+		culture = syrian
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = mashriqi
-		religion = orthodox
+		culture = syrian
+		religion = catholic
 		size = 875
 	}
 
@@ -330,108 +372,126 @@
 }
 #Gaza (44000/11000 POPS)
 920 = {
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 1000
+	}
+
 	aristocrats = {
-		culture = mashriqi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = mashriqi
-		religion = sunni
+		culture = syrian
+		religion = catholic
 		size = 1250
 	}
 
 	soldiers = {
-		culture = mashriqi
-		religion = sunni
+		culture = syrian
+		religion = catholic
 		size = 125
 	}
 
 	farmers = {
 		culture = mashriqi
 		religion = sunni
-		size = 7400
+		size = 3400
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = orthodox
+		culture = syrian
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = mashriqi
-		religion = orthodox
+		culture = syrian
+		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = mashriqi
-		religion = orthodox
-		size = 1725
+		culture = syrian
+		religion = catholic
+		size = 9725
+	}
+
+	farmers = {
+		culture = frankish
+		religion = catholic
+		size = 15725
 	}
 }
 #Beersheba (36000/9000 POPS)
 921 = {
 	aristocrats = {
-		culture = mashriqi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = mashriqi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = mashriqi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
-		culture = mashriqi
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = mashriqi
-		religion = sunni
-		size = 6425
+		culture = syrian
+		religion = catholic
+		size = 10425
 	}
 
 	aristocrats = {
-		culture = bedouin
-		religion = sunni
+		culture = syrian
+		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = bedouin
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = bedouin
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 75
 	}
 
 	soldiers = {
-		culture = bedouin
-		religion = sunni
+		culture = frankish
+		religion = catholic
 		size = 25
+	}
+
+	farmers = {
+		culture = frankish
+		religion = catholic
+		size = 4500
 	}
 
 	farmers = {

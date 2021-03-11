@@ -1,5 +1,5 @@
 capital = 2463
-primary_culture = anglo_canadian
+primary_culture = carolinian
 religion = catholic
 government = democracy
 plurality = 0.5

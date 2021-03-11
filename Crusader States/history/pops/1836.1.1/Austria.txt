@@ -263,25 +263,25 @@
 	}
 
 	clergymen = {
-		culture = slovene
+		culture = carinthian
 		religion = catholic
 		size = 175 
 	}
 
 	artisans = {
-		culture = slovene
+		culture = carinthian
 		religion = catholic
 		size = 950
 	}
 
 	soldiers = {
-		culture = slovene
+		culture = carinthian
 		religion = catholic
 		size = 1200
 	}
 
 	farmers = {
-		culture = slovene
+		culture = carinthian
 		religion = catholic
 		size = 16675 
 	}
@@ -710,25 +710,25 @@
 
 	clergymen = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size = 35 
 	}
 
 	artisans = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = hungarian
-		religion = protestant
+		culture = south_german
+		religion = catholic
 		size = 1025
 	}
 
 	farmers = {
 		culture = hungarian
-		religion = protestant
+		religion = catholic
 		size = 1790   
 	}
 }

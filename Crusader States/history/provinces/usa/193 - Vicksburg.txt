@@ -1,6 +1,6 @@
-owner = VAL
-controller = VAL
-add_core = VAL
+owner = LAU
+controller = LAU
+add_core = LAU
 trade_goods = cotton
 life_rating = 35
 

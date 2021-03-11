@@ -1,7 +1,8 @@
-owner = HNC
-controller = HNC
-add_core = HNC
+owner = HAM
+controller = HAM
 add_core = HAM
+add_core = HNC
+add_core = GER
 trade_goods = fruit
 life_rating = 40
 fort = 1

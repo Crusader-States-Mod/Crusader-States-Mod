@@ -1,6 +1,6 @@
-owner = SWE
-controller = SWE
-add_core = SOD
+owner = FRA
+controller = FRA
+add_core = NBE
 trade_goods = timber
 life_rating = 31
 colonial = 2

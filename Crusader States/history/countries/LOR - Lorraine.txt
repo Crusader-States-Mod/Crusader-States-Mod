@@ -1,5 +1,5 @@
 capital = 411
-primary_culture = french
+primary_culture = lotharingian
 religion = catholic
 government = democracy
 plurality = 0.0
@@ -31,12 +31,13 @@ school_reforms = no_schools
 conscription = no_draft
 debt_law = peonage
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = primary_culture_only
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = catholic_country
 
-ruling_party = FRA_liberal
+ruling_party = french_liberal
 upper_house = {
 	fascist = 0
 	liberal = 30

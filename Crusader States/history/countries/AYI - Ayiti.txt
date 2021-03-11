@@ -1,5 +1,5 @@
 capital = 2213
-primary_culture = north_italian
+primary_culture = afro_italian
 religion = catholic
 government = democracy
 plurality = 0.1
@@ -53,3 +53,5 @@ upper_house = {
 
 #Inventions
 }
+
+set_country_flag = new_world_nation

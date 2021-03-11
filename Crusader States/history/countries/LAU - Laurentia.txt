@@ -1,6 +1,7 @@
 capital = 65
-primary_culture = french_canadian
-culture = anglo_canadian
+primary_culture = french_acadian
+culture = valois
+culture = anglo_acadian
 religion = catholic
 government = hms_government
 plurality = 0.2
@@ -38,8 +39,8 @@ border_policy = open_borders
 
 set_country_flag = catholic_country
 
+ruling_party = french_conservative
 
-ruling_party = QUE_conservative
 upper_house = {
 	fascist = 0
 	liberal = 35

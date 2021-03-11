@@ -1,7 +1,7 @@
-owner = LUS
-controller = LUS
-add_core = LUS
+owner = GUI
+controller = GUI
+add_core = GUI
+add_core = AMZ
 trade_goods = fruit
 terrain = jungle
 life_rating = 35
-colonial = 2

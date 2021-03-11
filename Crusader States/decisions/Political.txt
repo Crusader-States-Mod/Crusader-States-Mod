@@ -872,7 +872,6 @@ political_decisions = {
 				AND = { tag = NYE owns = 1178 NOT = { capital = 1178 } }
 				AND = { tag = YEM owns = 1178 NOT = { capital = 1178 } }
 				AND = { tag = LIT owns = 360 NOT = { capital = 360 } }
-				AND = { tag = EGY owns = 1745 NOT = { capital = 1745 } }
 				AND = { tag = NIC owns = 2197 NOT = { capital = 2197 } }
 				AND = { tag = ASH owns = 1907 NOT = { capital = 1907 } civilized = yes }
 				AND = { tag = ALD owns = 1700 NOT = { capital = 1700 } }

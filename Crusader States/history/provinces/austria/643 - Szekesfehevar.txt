@@ -1,5 +1,6 @@
-owner = HUN
-controller = HUN
+owner = PHC
+controller = PHC
+add_core = PHC
 add_core = HUN
 trade_goods = grain
 life_rating = 35

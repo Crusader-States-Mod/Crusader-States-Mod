@@ -2,6 +2,7 @@ owner = ENL
 controller = ENL
 add_core = ENL
 add_core = WHA
+add_core = CEL
 trade_goods = coal
 naval_base = 1
 life_rating = 35

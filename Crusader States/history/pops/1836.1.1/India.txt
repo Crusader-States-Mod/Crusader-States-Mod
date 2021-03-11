@@ -1445,32 +1445,32 @@
 	}
 
 	aristocrats = {
-		culture = british
-		religion = protestant
+		culture = panjabi
+		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = british
-		religion = protestant
+		culture = panjabi
+		religion = sunni
 		size = 50
 	}
 
 	bureaucrats = {
-		culture = british
-		religion = protestant
+		culture = panjabi
+		religion = sunni
 		size = 100
 	}
 
 	officers = {
-		culture = british
-		religion = protestant
+		culture = panjabi
+		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = british
-		religion = protestant
+		culture = panjabi
+		religion = sunni
 		size = 100
 	}
 
@@ -1594,8 +1594,8 @@
 	}
 
 	bureaucrats = {
-		culture = british
-		religion = protestant
+		culture = panjabi
+		religion = sunni
 		size = 75
 	}
 }
@@ -2611,8 +2611,8 @@
 	}
 
 	bureaucrats = {
-		culture = british
-		religion = protestant
+		culture = bihari
+		religion = sunni
 		size = 50
 	}
 }
@@ -2928,32 +2928,32 @@
 	}
 
 	aristocrats = {
-		culture = british
-		religion = protestant
+		culture = bengali
+		religion = sunni
 		size = 550
 	}
 
 	officers = {
-		culture = british
-		religion = protestant
+		culture = bengali
+		religion = sunni
 		size = 400
 	}
 
 	clergymen = {
-		culture = british
-		religion = protestant
+		culture = bengali
+		religion = sunni
 		size = 50
 	}
 
 	bureaucrats = {
-		culture = british
-		religion = protestant
+		culture = bengali
+		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = british
-		religion = protestant
+		culture = bengali
+		religion = sunni
 		size = 2000
 	}
 }
@@ -3517,8 +3517,8 @@
 #Gauhati (1060000/265000 POPS)
 1258 = {
 	bureaucrats = {
-		culture = british
-		religion = protestant
+		culture = bengali
+		religion = sunni
 		size = 25
 	}
 
@@ -3858,8 +3858,8 @@
 	}
 
 	bureaucrats = {
-		culture = british
-		religion = protestant
+		culture = bengali
+		religion = sunni
 		size = 25
 	}
 }
@@ -4095,8 +4095,8 @@
 	}
 
 	bureaucrats = {
-		culture = british
-		religion = protestant
+		culture = avadhi
+		religion = sunni
 		size = 10
 	}
 }
@@ -5055,8 +5055,8 @@
 	}
 
 	bureaucrats = {
-		culture = british
-		religion = protestant
+		culture = avadhi
+		religion = sunni
 		size = 25
 	}
 }
@@ -6367,8 +6367,8 @@
 	}
 
 	bureaucrats = {
-		culture = british
-		religion = protestant
+		culture = sindi
+		religion = sunni
 		size = 10
 	}
 }
@@ -6960,32 +6960,32 @@
 	}
 
 	aristocrats = {
-		culture = british
-		religion = protestant
+		culture = sindi
+		religion = shiite
 		size = 1125
 	}
 
 	bureaucrats = {
-		culture = british
-		religion = protestant
+		culture = sindi
+		religion = shiite
 		size = 250
 	}
 
 	officers = {
-		culture = british
-		religion = protestant
+		culture = sindi
+		religion = shiite
 		size = 500
 	}
 
 	clergymen = {
-		culture = british
-		religion = protestant
+		culture = sindi
+		religion = shiite
 		size = 125
 	}
 
 	soldiers = {
-		culture = british
-		religion = protestant
+		culture = sindi
+		religion = shiite
 		size = 3000
 	}
 }
@@ -7346,31 +7346,31 @@
 #1303 - Goa (235000/58750 POPS)
 1303 = {
 	aristocrats = {
-		culture = portuguese
+		culture = lusitanian
 		religion = catholic
 		size = 150
 	}
 
 	bureaucrats = {
-		culture = portuguese
+		culture = lusitanian
 		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = portuguese
+		culture = lusitanian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = portuguese
+		culture = lusitanian
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = portuguese
+		culture = lusitanian
 		religion = catholic
 		size = 25
 	}
@@ -7507,8 +7507,8 @@
 	}
 
 	bureaucrats = {
-		culture = british
-		religion = protestant
+		culture = telegu
+		religion = sunni
 		size = 75
 	}
 }
@@ -7848,26 +7848,26 @@
 	}
 
 	aristocrats = {
-		culture = british
-		religion = protestant
+		culture = kannada
+		religion = sunni
 		size = 1375
 	}
 
 	clergymen = {
-		culture = british
-		religion = protestant
+		culture = kannada
+		religion = sunni
 		size = 375
 	}
 
 	bureaucrats = {
-		culture = british
-		religion = protestant
+		culture = kannada
+		religion = sunni
 		size = 250
 	}
 
 	soldiers = {
-		culture = british
-		religion = protestant
+		culture = kannada
+		religion = sunni
 		size = 3000
 	}
 }

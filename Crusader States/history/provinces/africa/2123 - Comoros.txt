@@ -1,5 +1,5 @@
-owner = GAE
-controller = GAE
+owner = SCO
+controller = SCO
 add_core = CMS
 trade_goods = fish
 life_rating = 30

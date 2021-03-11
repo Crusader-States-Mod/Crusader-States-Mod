@@ -1,7 +1,8 @@
-owner = HNC
-controller = HNC
+owner = HLL
+controller = HLL
+add_core = HLL
 add_core = HNC
-add_core = EFR
+add_core = GER
 trade_goods = fish
 life_rating = 40
 1861.1.1 = { railroad = 3 }

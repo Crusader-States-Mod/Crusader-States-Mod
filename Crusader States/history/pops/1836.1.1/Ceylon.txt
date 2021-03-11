@@ -183,38 +183,38 @@
 	}
 
 	aristocrats = {
-		culture = british
-		religion = protestant
+		culture = venetian
+		religion = catholic
 		size = 25
 	}
 
 	bureaucrats = {
-		culture = british
-		religion = protestant
+		culture = venetian
+		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = british
-		religion = protestant
+		culture = venetian
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = british
-		religion = protestant
+		culture = venetian
+		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = british
-		religion = protestant
+		culture = venetian
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = british
-		religion = protestant
+		culture = venetian
+		religion = catholic
 		size = 675
 	}
 }

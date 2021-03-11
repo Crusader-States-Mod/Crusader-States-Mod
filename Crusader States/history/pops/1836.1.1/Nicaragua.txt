@@ -3,196 +3,175 @@
 #Managua (192000/48000 POPS)
 2197 = {
 	aristocrats = {
-		culture = central_american
+		culture = ciarrassinese
 		religion = catholic
 		size = 1050
-		militancy = 9
-		rebel_type = nationalist_rebels
 	}
 
 	bureaucrats = {
-		culture = central_american
+		culture = ciarrassinese
 		religion = catholic
 		size = 100
-		militancy = 9
-		rebel_type = nationalist_rebels
 	}
 
 	officers = {
-		culture = central_american
+		culture = ciarrassinese
 		religion = catholic
 		size = 75
-		militancy = 9
-		rebel_type = nationalist_rebels
 	}
 
 	clergymen = {
-		culture = central_american
+		culture = ciarrassinese
 		religion = catholic
 		size = 475
-		militancy = 9
-		rebel_type = nationalist_rebels
 	}
 
 	artisans = {
-		culture = central_american
+		culture = ciarrassinese
 		religion = catholic
 		size = 2400
 	}
 
 	soldiers = {
-		culture = central_american
+		culture = ciarrassinese
 		religion = catholic
 		size = 1475
-
-		militancy = 9
-		rebel_type = nationalist_rebels
 	}
 
 	farmers = {
-		culture = central_american
+		culture = ciarrassinese
 		religion = catholic
-		size = 43425
-		militancy = 9
-		rebel_type = nationalist_rebels
+		size = 31425
+	}
+
+	farmers = {
+		culture = chibchan
+		religion = catholic
+		size = 12000
+	}
+
+	slaves = {
+		culture = afro_italian
+		religion = catholic
+		size = 18000
 	}
 }
 #Rivas (40000/10000 POPS)
 2198 = {
 	aristocrats = {
-		culture = central_american
+		culture = ciarrassinese
 		religion = catholic
 		size = 275
-		militancy = 9
-		rebel_type = nationalist_rebels
 	}
 
 	clergymen = {
-		culture = central_american
+		culture = ciarrassinese
 		religion = catholic
 		size = 100
-		militancy = 9
-		rebel_type = nationalist_rebels
 	}
 
 	artisans = {
-		culture = central_american
+		culture = ciarrassinese
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = central_american
+		culture = ciarrassinese
 		religion = catholic
 		size = 100
-
-		militancy = 9
-		rebel_type = nationalist_rebels
 	}
 
 	farmers = {
-		culture = central_american
+		culture = ciarrassinese
 		religion = catholic
 		size = 9025
-		militancy = 9
-		rebel_type = nationalist_rebels
 	}
 }
 #Esteli (48000/12000 POPS)
 2199 = {
 	aristocrats = {
-		culture = central_american
+		culture = ciarrassinese
 		religion = catholic
 		size = 325
-		militancy = 9
-		rebel_type = nationalist_rebels
 	}
 
 	clergymen = {
-		culture = central_american
+		culture = ciarrassinese
 		religion = catholic
 		size = 125
-		militancy = 9
-		rebel_type = nationalist_rebels
 	}
 
 	artisans = {
-		culture = central_american
+		culture = ciarrassinese
 		religion = catholic
 		size = 600
-		militancy = 9
-		rebel_type = nationalist_rebels
 	}
 
 	soldiers = {
-		culture = central_american
+		culture = ciarrassinese
 		religion = catholic
 		size = 125
-
-		militancy = 9
-		rebel_type = nationalist_rebels
 	}
 
 	farmers = {
-		culture = central_american
+		culture = ciarrassinese
 		religion = catholic
-		size = 11825
-		militancy = 9
-		rebel_type = nationalist_rebels
+		size = 6825
+	}
+
+	farmers = {
+		culture = chibchan
+		religion = catholic
+		size = 5000
+	}
+
+	slaves = {
+		culture = afro_italian
+		religion = catholic
+		size = 2000
 	}
 }
 #Bluefields (12000/3000 POPS)
 2200 = {
 	aristocrats = {
-		culture = central_american
+		culture = ciarrassinese
 		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = central_american
+		culture = ciarrassinese
 		religion = catholic
 		size = 15
 	}
 
 	artisans = {
-		culture = central_american
+		culture = ciarrassinese
 		religion = catholic
 		size = 15
 	}
 
 	soldiers = {
-		culture = central_american
+		culture = ciarrassinese
 		religion = catholic
 		size = 10
 	}
 
 	farmers = {
-		culture = central_american
+		culture = ciarrassinese
 		religion = catholic
-		size = 120
-	}
-
-	soldiers = {
-		culture = afro_caribbean
-		religion = catholic
-		size = 100
-	}
-
-	farmers = {
-		culture = afro_caribbean
-		religion = catholic
-		size = 270
+		size = 1120
 	}
 	
-	farmers = {
-		culture = afro_caribbean
+	slaves = {
+		culture = afro_italian
 		religion = animist
-		size = 190
+		size = 1000
 	}
 	
 	farmers = {
-		culture = native_american_minor #native_american_minor
+		culture = chibchan #native_american_minor
 		religion = animist
 		size = 2200
 	}

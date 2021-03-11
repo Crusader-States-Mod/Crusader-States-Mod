@@ -555,38 +555,38 @@
 #Pitcairn Islands (160/40 POPS) #british trade post - proclaimed colony 1838
 2552 = {
 	aristocrats = {
-		culture = british
-		religion = protestant
+		culture = polynesian
+		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = british
-		religion = protestant
+		culture = polynesian
+		religion = animist
 		size = 2
 	}
 
 	artisans = {
-		culture = british
-		religion = protestant
+		culture = polynesian
+		religion = animist
 		size = 2
 	}
 
 	soldiers = {
-		culture = british
-		religion = protestant
+		culture = polynesian
+		religion = animist
 		size = 2
 	}
 
 	farmers = {
-		culture = british
-		religion = protestant
+		culture = polynesian
+		religion = animist
 		size = 10
 	}
 	
 	farmers = {
 		culture = polynesian
-		religion = protestant
+		religion = animist
 		size = 10
 	}
 }

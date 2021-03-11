@@ -1,7 +1,8 @@
-owner = HRE
-controller = HRE
-add_core = HRE
-add_core = BAV
+owner = NUR
+controller = NUR
+add_core = NUR
+add_core = SGC
+add_core = GER
 trade_goods = grain
 life_rating = 40
 railroad = 1

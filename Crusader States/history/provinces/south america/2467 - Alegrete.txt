@@ -1,6 +1,6 @@
-owner = ECA
-controller = ECA
-add_core = ECA
+owner = HSP
+controller = HSP
+add_core = HSP
 trade_goods = cattle
 life_rating = 35
 1860.1.1 = {

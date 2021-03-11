@@ -1,5 +1,6 @@
-owner = MEX
-controller = MEX
-add_core = MEX
+owner = LUS
+controller = LUS
+add_core = CAL
+colonial = 2
 trade_goods = fruit
 life_rating = 35

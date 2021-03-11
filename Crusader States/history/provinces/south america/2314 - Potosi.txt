@@ -1,6 +1,6 @@
-owner = HIB
-controller = HIB
-add_core = HIB
+owner = HSP
+controller = HSP
+add_core = HSP
 trade_goods = grain
 life_rating = 31
 terrain = new_world_semidesert

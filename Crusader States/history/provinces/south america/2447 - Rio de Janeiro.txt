@@ -1,6 +1,7 @@
-owner = RHA
-controller = RHA
-add_core = RHA
+owner = PIN
+controller = PIN
+add_core = PIN
+add_core = AMZ
 trade_goods = coffee
 life_rating = 39
 naval_base = 1

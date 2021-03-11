@@ -1,11 +1,6 @@
-owner = AFR
-controller = AFR
-add_core = AFR
+owner = SIC
+controller = SIC
+add_core = SIC
 trade_goods = wool
 life_rating = 31
 terrain = semidesert
-1861.1.1 = {
-	owner = TUR
-	controller = TUR
-	colonial = 2
-}

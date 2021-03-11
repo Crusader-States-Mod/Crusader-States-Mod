@@ -1,9 +1,9 @@
-owner = LUS
-controller = LUS
-add_core = LUS
+owner = GUI
+controller = GUI
+add_core = GUI
+add_core = AMZ
 trade_goods = fruit
 terrain = plains
 life_rating = 35
-colonial = 2
 naval_base = 1
 1861.1.1 = { railroad = 1 }

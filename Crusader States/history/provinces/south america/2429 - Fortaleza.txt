@@ -1,6 +1,7 @@
-owner = RHA
-controller = RHA
-add_core = RHA
+owner = GUI
+controller = GUI
+add_core = GUI
+add_core = AMZ
 trade_goods = fish
 terrain = savanna
 life_rating = 35

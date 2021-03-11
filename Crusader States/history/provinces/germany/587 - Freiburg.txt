@@ -1,6 +1,6 @@
-owner = HRE
-controller = HRE
-add_core = HRE
+owner = FRA
+controller = FRA
+add_core = FRA
 add_core = STR
 trade_goods = fruit
 life_rating = 40

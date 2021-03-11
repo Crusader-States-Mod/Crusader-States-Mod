@@ -1,7 +1,8 @@
-owner = HNC
-controller = HNC
-add_core = HNC
+owner = LUB
+controller = LUB
 add_core = LUB
+add_core = HNC
+add_core = GER
 trade_goods = fish
 life_rating = 40
 naval_base = 1

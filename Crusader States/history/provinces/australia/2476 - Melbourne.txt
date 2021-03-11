@@ -1,6 +1,6 @@
-owner = SWE
-controller = SWE
-add_core = SOD
+owner = FRA
+controller = FRA
+add_core = NBE
 trade_goods = wool
 life_rating = 35
 colonial = 2

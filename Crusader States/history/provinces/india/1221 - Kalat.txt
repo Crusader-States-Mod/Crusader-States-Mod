@@ -1,5 +1,5 @@
-owner = DUR
-controller = DUR
-add_core = DUR
+owner = KAL
+controller = KAL
+add_core = KAL
 trade_goods = wool
 life_rating = 32

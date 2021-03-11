@@ -1,6 +1,8 @@
-owner = SWE
-controller = SWE
-add_core = SWE
+owner = DEN
+controller = DEN
+add_core = DEN
+add_core = HNC
+add_core = GER
 trade_goods = fish
 life_rating = 35
 naval_base = 1

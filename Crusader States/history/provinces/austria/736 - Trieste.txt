@@ -1,7 +1,8 @@
 owner = VEN
 controller = VEN
 add_core = VEN
-add_core = TRE
+add_core = CRN
+add_core = ILL
 trade_goods = grain
 life_rating = 40
 #state_building = {

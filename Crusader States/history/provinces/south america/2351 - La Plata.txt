@@ -1,6 +1,6 @@
-owner = ECA
-controller = ECA
-add_core = ECA
+owner = HSP
+controller = HSP
+add_core = HSP
 trade_goods = fish
 terrain = farmlands
 life_rating = 35

@@ -1,6 +1,6 @@
-owner = DUR
-controller = DUR
-add_core = DUR
+owner = KAL
+controller = KAL
+add_core = KAL
 trade_goods = fish
 terrain = mountain
 life_rating = 31

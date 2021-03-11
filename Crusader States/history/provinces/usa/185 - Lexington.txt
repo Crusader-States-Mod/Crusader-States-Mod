@@ -1,6 +1,6 @@
-owner = UPP
-controller = UPP
-add_core = UPP
+owner = LAU
+controller = LAU
+add_core = LAU
 trade_goods = coal
 life_rating = 35
 

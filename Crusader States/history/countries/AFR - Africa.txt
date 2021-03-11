@@ -1,10 +1,10 @@
 capital = 1725
-primary_culture = french
+primary_culture = norman_italian
 religion = catholic
 government = hms_government
 plurality = 25
-nationalvalue = nv_liberty
-literacy = 0.50
+nationalvalue = nv_tradition
+literacy = 0.45
 non_state_culture_literacy = 0.01
 civilized = yes
 
@@ -44,9 +44,7 @@ bronze_muzzle_loaded_artillery = 1
 military_staff_system = 1
 army_command_principle = 1
 post_nelsonian_thought = 1
-battleship_column_doctrine = 1
 clipper_design = 1
-steamers = 1
 naval_design_bureaus = 1
 alphabetic_flag_signaling = 1
 the_command_principle = 1
@@ -65,22 +63,14 @@ mechanical_production = 1
 hot_blast = 1
 experimental_railroad = 1
 basic_chemistry = 1
-stock_exchange = 1
-ad_hoc_money_bill_printing = 1
-romanticism = 1
-interchangeable_parts = 1
-high_pressure_steam_engine = 1
-late_classical_theory = 1
 
 # Inventions
-secularization = yes
-social_conscience = yes
 
 # Starting Consciousness
 consciousness = 3
 nonstate_consciousness = 1
 
-ruling_party = FRA_conservative
+ruling_party = french_conservative
 last_election = 1834.6.21
 upper_house = {
 	fascist = 0
@@ -92,9 +82,4 @@ upper_house = {
 	communist = 0
 }
 
-govt_flag = {
-	government = hms_government
-	flag = presidential_dictatorship
-}
-
-schools = culture_tech_school
+decision = africa_setup

@@ -1,5 +1,5 @@
-owner = MSL
-controller = MSL
-add_core = MSL
+owner = ARA
+controller = ARA
+add_core = ARA
 trade_goods = wool
 life_rating = 10

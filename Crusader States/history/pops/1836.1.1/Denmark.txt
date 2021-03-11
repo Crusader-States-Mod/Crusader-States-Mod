@@ -211,44 +211,50 @@
 
 	aristocrats = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 650
 	}
 
 	bureaucrats = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	officers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 250
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 2500
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 500
 	}
 
 	farmers = {
+		culture = danish
+		religion = catholic
+		size = 20000
+	}
+
+	farmers = {
 		culture = north_german
-		religion = protestant
-		size = 38850
+		religion = catholic
+		size = 18850
 	}
 }
 #Aabenra (100000/25000 POPS)
@@ -279,31 +285,31 @@
 
 	aristocrats = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 50
 	}
 
 	farmers = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 6550
 	}
 
@@ -379,7 +385,7 @@
 
 	artisans = {
 		culture = north_german
-		religion = protestant
+		religion = catholic
 		size = 1100
 	}
 }

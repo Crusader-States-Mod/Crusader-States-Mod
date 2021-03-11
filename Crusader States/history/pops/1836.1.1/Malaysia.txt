@@ -72,8 +72,8 @@
 	}
 
 	aristocrats = {
-		culture = british
-		religion = protestant
+		culture = north_german
+		religion = catholic
 		size = 50
 	}
 	

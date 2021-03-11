@@ -1,9 +1,11 @@
 capital = 322
 primary_culture = swedish
+culture = prussian
 culture = norwegian
 culture = icelandic
 culture = finnish
-culture = baltic_german
+culture = livonian
+culture = lithuanian
 religion = catholic
 government = hms_government
 plurality = 25.0

@@ -1,7 +1,7 @@
 capital = 2172
 primary_culture = mexican
 religion = catholic
-government = presidential_dictatorship
+government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_equality
 literacy = 0.03
@@ -33,7 +33,8 @@ school_reforms = no_schools
 conscription = one_year_draft
 debt_law = peonage
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = culture_voting_only
+child_labor = child_labor_legal
+citizens_rights = culture_voting_only
 border_policy = open_borders
 
 set_country_flag = catholic_country

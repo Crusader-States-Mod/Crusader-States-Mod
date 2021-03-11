@@ -4,32 +4,32 @@
 2234 = {
 
 	aristocrats = {
-		culture = dutch
-		religion = protestant
+		culture = spanish
+		religion = catholic
 		size = 76
 	}
 
 	bureaucrats = {
-		culture = dutch
-		religion = protestant
+		culture = spanish
+		religion = catholic
 		size = 5
 	}
 
 	soldiers = {
-		culture = dutch
-		religion = protestant
+		culture = spanish
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = dutch
-		religion = protestant
+		culture = spanish
+		religion = catholic
 		size = 70
 	}
 
 	clergymen = {
-		culture = dutch
-		religion = protestant
+		culture = spanish
+		religion = catholic
 		size = 20
 	}
 
@@ -40,7 +40,7 @@
 	}
 	
 	slaves = {
-		culture = afro_caribbean
+		culture = afro_hispanic
 		religion = catholic
 		size = 900
 	}
@@ -49,25 +49,25 @@
 2235 = {
 	
 	aristocrats = {
-		culture = dutch
-		religion = protestant
+		culture = spanish
+		religion = catholic
 		size = 1
 	}
 	
 	clergymen = {
-		culture = dutch
-		religion = protestant
+		culture = spanish
+		religion = catholic
 		size = 25
 	}
 	
 	farmers = {
-		culture = dutch
-		religion = protestant
+		culture = spanish
+		religion = catholic
 		size = 400
 	}
 
 	slaves = {
-		culture = afro_caribbean
+		culture = afro_hispanic
 		religion = catholic
 		size = 175
 	}
@@ -76,32 +76,32 @@
 2236 = {
 
 	aristocrats = {
-		culture = dutch
-		religion = protestant
+		culture = north_german
+		religion = catholic
 		size = 10
 	}
 	
 	clergymen = {
-		culture = dutch
-		religion = protestant
+		culture = north_german
+		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_caribbean
-		religion = protestant
+		culture = north_german
+		religion = catholic
 		size = 55
 	}
 	
-	farmers = {
-		culture = dutch
-		religion = protestant
+	slaves = {
+		culture = afro_germanic
+		religion = catholic
 		size = 400
 	}
 
 	slaves = {
-		culture = afro_caribbean
-		religion = protestant
+		culture = afro_germanic
+		religion = catholic
 		size = 100
 	}
 

@@ -1,4 +1,4 @@
-add_core = SAF
+add_core = CAP
 trade_goods = wool
 life_rating = 15
 terrain = mountain

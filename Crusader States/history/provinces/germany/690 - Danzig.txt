@@ -1,6 +1,6 @@
-owner = PRC
-controller = PRC
-add_core = PRC
+owner = PHC
+controller = PHC
+add_core = PHC
 trade_goods = fish
 life_rating = 40
 naval_base = 1

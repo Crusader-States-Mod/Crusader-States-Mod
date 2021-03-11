@@ -1,6 +1,6 @@
-owner = ECA
-controller = ECA
-add_core = ECA
+owner = HSP
+controller = HSP
+add_core = HSP
 trade_goods = cattle
 life_rating = 39
 naval_base = 1

@@ -1,5 +1,5 @@
-owner = MSL
-controller = MSL
-add_core = MSL
+owner = PER
+controller = PER
+add_core = PER
 trade_goods = fruit
 life_rating = 35

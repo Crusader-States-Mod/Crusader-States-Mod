@@ -56,9 +56,9 @@
 		size = 7000
 	}
 
-	slaves = {
-		culture = russian
-		religion = orthodox
+	farmers = {
+		culture = kazak
+		religion = sunni
 		size = 3000
 	}
 }
@@ -213,31 +213,31 @@
 	}
 
 	aristocrats = {
-		culture = kirgiz
+		culture = kazak
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = kirgiz
+		culture = kazak
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = kirgiz
+		culture = kazak
 		religion = sunni
 		size = 125
 	}
 
 	soldiers = {
-		culture = kirgiz
+		culture = kazak
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = kirgiz
+		culture = kazak
 		religion = sunni
 		size = 2775
 	}
@@ -281,43 +281,43 @@
 #Kokand (300000/75000 POPS)   
 1202 = {
 	aristocrats = {
-		culture = kirgiz
+		culture = kazak
 		religion = sunni
 		size = 1100
 	}
 
 	bureaucrats = {
-		culture = kirgiz
+		culture = kazak
 		religion = sunni
 		size = 200
 	}
 
 	officers = {
-		culture = kirgiz
+		culture = kazak
 		religion = sunni
 		size = 225
 	}
 
 	clergymen = {
-		culture = kirgiz
+		culture = kazak
 		religion = sunni
 		size = 550
 	}
 
 	artisans = {
-		culture = kirgiz
+		culture = kazak
 		religion = sunni
 		size = 7050
 	}
 
 	soldiers = {
-		culture = kirgiz
+		culture = kazak
 		religion = sunni
 		size = 575
 	}
 
 	farmers = {
-		culture = kirgiz
+		culture = kazak
 		religion = sunni
 		size = 46350
 	}
@@ -388,9 +388,9 @@
 		size = 8000
 	}
 
-	slaves = {
-		culture = russian
-		religion = orthodox
+	farmers = {
+		culture = kazak
+		religion = sunni
 		size = 5000
 	}
 }
@@ -470,31 +470,31 @@
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = kazak
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = kazak
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = kazak
 		religion = sunni
 		size = 1500
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = kazak
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = kazak
 		religion = sunni
 		size = 3375
 	}
@@ -586,25 +586,25 @@
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = kazak
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = kazak
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = kazak
 		religion = sunni
 		size = 1500
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = kazak
 		religion = sunni
 		size = 50
 	}

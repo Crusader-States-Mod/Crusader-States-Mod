@@ -1,6 +1,7 @@
-owner = SER
-controller = SER
+owner = ERE
+controller = ERE
+add_core = ERE
 add_core = SER
-add_core = ALB
+add_core = DNB
 trade_goods = timber
 life_rating = 35

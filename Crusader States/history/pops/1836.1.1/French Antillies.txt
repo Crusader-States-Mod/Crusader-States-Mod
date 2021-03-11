@@ -44,19 +44,19 @@
 		size = 125
 	}
 
-	artisans = {
+	slaves = {
 		culture = afro_antillean
 		religion = catholic
 		size = 1250
 	}
 
-	soldiers = {
+	slaves = {
 		culture = afro_antillean
 		religion = catholic
 		size = 250
 	}
 
-	farmers = {
+	slaves = {
 		culture = afro_antillean
 		religion = catholic
 		size = 3400
@@ -136,31 +136,31 @@
 45 = {
 	
 	aristocrats = {
-		culture = french
+		culture = venetian
 		religion = catholic
 		size = 10
 	}
 	
 	clergymen = {
-		culture = french
+		culture = venetian
 		religion = catholic
 		size = 25
 	}
 
-	artisans = {
-		culture = afro_caribbean
+	slaves = {
+		culture = afro_italian
 		religion = catholic
 		size = 55
 	}
 	
 	farmers = {
-		culture = french
+		culture = venetian
 		religion = catholic
 		size = 500
 	}
 
 	slaves = {
-		culture = afro_caribbean
+		culture = afro_italian
 		religion = catholic
 		size = 120
 	}

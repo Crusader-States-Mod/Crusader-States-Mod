@@ -1,7 +1,8 @@
-owner = HNC
-controller = HNC
+owner = DEN
+controller = DEN
+add_core = DEN
 add_core = HNC
-add_core = HOL
+add_core = GER
 trade_goods = fish
 life_rating = 30
 terrain = small_island

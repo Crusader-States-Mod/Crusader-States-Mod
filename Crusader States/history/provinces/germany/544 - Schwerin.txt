@@ -1,7 +1,9 @@
-owner = HNC
-controller = HNC
-add_core = HNC
+owner = DEN
+controller = DEN
+add_core = DEN
 add_core = MEC
+add_core = HNC
+add_core = GER
 trade_goods = grain
 life_rating = 40
 naval_base = 1

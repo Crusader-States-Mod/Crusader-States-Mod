@@ -1,7 +1,7 @@
-owner = HUN
-controller = HUN
-add_core = SIE
+owner = PHC
+controller = PHC
+add_core = PHC
 add_core = HUN
-add_core = ROM
+add_core = WAL
 trade_goods = cattle
 life_rating = 35

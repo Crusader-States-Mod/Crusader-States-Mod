@@ -1,5 +1,5 @@
-owner = WCA
-controller = WCA
-add_core = WCA
+owner = HSP
+controller = HSP
+add_core = HSP
 trade_goods = wool
 life_rating = 35

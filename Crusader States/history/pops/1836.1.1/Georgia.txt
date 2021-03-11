@@ -557,32 +557,32 @@
 #Batum (76000/19000 POPS) #now part of Georgia
 1096 = {
 	aristocrats = {
-		culture = turkish
-		religion = sunni
+		culture = armenian
+		religion = orthodox
 		size = 50
 	}
 
 	clergymen = {
-		culture = turkish
-		religion = sunni
+		culture = armenian
+		religion = orthodox
 		size = 110
 	}
 
 	artisans = {
-		culture = turkish
-		religion = sunni
+		culture = armenian
+		religion = orthodox
 		size = 150
 	}
 
 	soldiers = {
-		culture = turkish
-		religion = sunni
+		culture = armenian
+		religion = orthodox
 		size = 110
 	}
 
 	farmers = {
-		culture = turkish
-		religion = sunni
+		culture = armenian
+		religion = orthodox
 		size = 2725
 	}
 	

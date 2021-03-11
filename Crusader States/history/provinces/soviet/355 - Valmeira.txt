@@ -2,5 +2,6 @@ owner = TEU
 controller = TEU
 add_core = TEU
 add_core = LIV
+add_core = NTL
 trade_goods = cattle
 life_rating = 35

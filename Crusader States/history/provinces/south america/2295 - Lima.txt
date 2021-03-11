@@ -1,6 +1,6 @@
-owner = LUS
-controller = LUS
-add_core = LUS
+owner = CIA
+controller = CIA
+add_core = CIA
 trade_goods = sulphur
 life_rating = 39
 naval_base = 1

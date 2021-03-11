@@ -1,6 +1,7 @@
-owner = LTN
-controller = LTN
-add_core = LTN
+owner = ERE
+controller = ERE
+add_core = ERE
+add_core = ROM
 trade_goods = fruit
 life_rating = 34
 terrain = small_island

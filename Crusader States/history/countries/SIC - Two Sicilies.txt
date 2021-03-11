@@ -1,5 +1,5 @@
-capital = 754
-primary_culture = south_italian
+capital = 762
+primary_culture = norman_sicilian
 religion = catholic
 government = absolute_monarchy
 plurality = 25.0
@@ -32,7 +32,8 @@ school_reforms = no_schools
 conscription = no_draft
 debt_law = peonage
 penal_system = capital_punishment
-child_labor = child_labor_legalcitizens_rights = culture_voting_only
+child_labor = child_labor_legal
+citizens_rights = culture_voting_only
 border_policy = open_borders
 
 set_country_flag = catholic_country
@@ -70,6 +71,8 @@ freedom_of_trade = 1
 guild_based_production = 1
 mechanical_production = 1
 basic_chemistry = 1
+military_staff_system = 1
+strategic_mobility = 1
 
 #Inventions
 
@@ -77,3 +80,5 @@ basic_chemistry = 1
 consciousness = 3
 
 oob = "SIC_oob.txt"
+
+schools = culture_tech_school

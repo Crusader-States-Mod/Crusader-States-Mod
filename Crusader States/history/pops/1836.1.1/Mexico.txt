@@ -2883,31 +2883,27 @@
 	}
 	
 	aristocrats = {
-		culture = central_american
+		culture = mayan
 		religion = catholic
 		size = 150
-		militancy = 9
 	}
 
 	clergymen = {
-		culture = central_american
+		culture = mayan
 		religion = catholic
 		size = 50
-		militancy = 9
 	}
 
 	farmers = {
-		culture = central_american
+		culture = mayan
 		religion = catholic
 		size = 1375
-		militancy = 5
 	}
 	
 	artisans = {
-		culture = central_american
+		culture = mayan
 		religion = catholic
 		size = 300
-		militancy = 9
 	}
 
 	clergymen = {

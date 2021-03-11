@@ -1,5 +1,6 @@
-owner = BNT
-controller = BNT
+owner = FRA
+controller = FRA
+add_core = FRA
 add_core = BNT
 trade_goods = cattle
 life_rating = 35

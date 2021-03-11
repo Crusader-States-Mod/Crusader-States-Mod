@@ -1,6 +1,6 @@
-owner = LAV
-controller = LAV
-add_core = LAV
+owner = CIA
+controller = CIA
+add_core = CIA
 trade_goods = coal
 terrain = montane_forest
 life_rating = 34

@@ -1,5 +1,5 @@
-owner = HIB
-controller = HIB
-add_core = HIB
+owner = HSP
+controller = HSP
+add_core = HSP
 trade_goods = rubber
 life_rating = 31

@@ -1,6 +1,7 @@
-owner = HNC
-controller = HNC
+owner = SAX
+controller = SAX
+add_core = SAX
 add_core = HNC
-add_core = BRE
+add_core = GER
 trade_goods = cattle
 life_rating = 40

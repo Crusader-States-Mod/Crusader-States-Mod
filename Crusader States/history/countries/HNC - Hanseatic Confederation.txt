@@ -1,12 +1,16 @@
 capital = 530
-primary_culture = north_german
-religion = protestant
+primary_culture = danish
+culture = north_german
+culture = dutch
+religion = catholic
 government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_order
 literacy = 0.8
+non_state_culture_literacy = 0.01
 civilized = yes
 prestige = 5
+is_releasable_vassal = no 
 
 # Political reforms
 slavery = no_slavery
@@ -35,10 +39,11 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = open_borders
 
-set_country_flag = protestant_country
-set_country_flag = exempt_from_vassal_contribution
+set_country_flag = catholic_country
+decision = hanseatic_setup
 
-ruling_party = HAN_conservative_2
+ruling_party = german_conservative
+
 upper_house = {
 	fascist = 0
 	liberal = 37
@@ -82,3 +87,4 @@ basic_chemistry = 1
 consciousness = 3
 nonstate_consciousness = 1
 
+schools = commerce_tech_school

@@ -4,25 +4,25 @@
 1877 = {
 
 	clergymen = {
-		culture = portuguese
+		culture = lusitanian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = portuguese
+		culture = lusitanian
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = portuguese
+		culture = lusitanian
 		religion = catholic
 		size = 100
 	}
 	
 	farmers = {
-		culture = portuguese
+		culture = lusitanian
 		religion = catholic
 		size = 100
 	}
