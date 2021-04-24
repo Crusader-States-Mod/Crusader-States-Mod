@@ -278,7 +278,7 @@ roman = {
 		Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
 		Presbitero Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }
 	}
-	venetian = {
+	norman_sicilian = {
 		color = { 40 150 90}
 		first_names = { Alessandro Armando Augusto Carlo Cesare Corrado Domenico Enrico Fabio Fabrizio
 		Ferdinando Francesco Gaetano Giacomo Giovanni Giulio Giuseppe Guglielmo Leopoldo Lorenzo
@@ -288,14 +288,6 @@ roman = {
 		"della Rovere" "di Borbone della Due Sicilia" Diaz Ferrari Filangieri Gironda Gravina Grifeo Lanza Lombardo
 		Lunardi Molinelli Orsini Ottaviani Pironti Scammacca Torlonia Turrisi Vernazza Zunica }
 		radicalism = 10
-	}
-	norman_sicilian = {
-		color = {100 150 120}
-		first_names = { Alessandru Beru Duminku Enrico Fernardu Frangisku Gabriel Ferlad Gorg Joseph
-		Karmenu Lawrenz Marju Mikiel Ninu Pawlu Rokku Saber Ugo Valent }
-		
-		last_names = { Abela Adami Azzopardi Boffa Borg Buhagiar Cassar Farrugia Frendo Gonzi
-		Howard Mifsud Mintoff Mizzi Muscat Olivier Puli Pullicino Strickland Vella }
 	}
 	greek = {
 		color = { 122  180  210 }
@@ -433,12 +425,6 @@ french = {
 		first_names = { Yann Yannic Pierre Jakez Elouan Frañsez Jaoua Paol Segal Alain Henri Hoël Michel Théodore }
 		
 		last_names = { "de Cornouaille" Karter Gallo Kergoulay Bellec "le Goff" Treguier Riou Morvan Peron Jezeguel Salaun "le Bihan" }
-	}
-	burgundian = { 
-		color = { 128 0 32 }
-		first_names = { Alban Andieu Alòi Beròt Carles Estève Fidèl Frederic Girard Jan Jacin Laurenç Martin Nicolau Privat Roman Vincenç }
-		
-		last_names = { Amiel Benet Dardier Delpuech Ladivèze Gilbert Mistral Lacroux Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre }
 	}
 	picard = { 
 		color = {100 110 136}
@@ -664,7 +650,6 @@ polish_culture_group = {
 czecho_slovak_culture_group = {
 	leader = european
 	unit = EuropeanGC
-	
 	slovak = {
 		color = {120 255 255}
 		first_names = { Albín Alexander András Andrej Augustín Basil Cyprián Dalibor Dezider Dominik

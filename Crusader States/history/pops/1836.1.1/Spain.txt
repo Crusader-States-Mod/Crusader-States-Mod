@@ -1382,61 +1382,61 @@
 #Balearics (240000/60000 POPS)
 502 = {
 	aristocrats = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 400
 	}
 
 	clergymen = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 400
 	}
 
 	artisans = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 6000
 	}
 
 	soldiers = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 400
 	}
 
 	farmers = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 33300
 	}
 
 	aristocrats = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 200
 	}
 
 	labourers = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 15900
 	}

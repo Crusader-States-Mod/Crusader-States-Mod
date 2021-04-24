@@ -1,6 +1,5 @@
-owner = GUI
-controller = GUI
-add_core = GUI
+owner = AMZ
+controller = AMZ
 add_core = AMZ
 trade_goods = fruit
 terrain = plains

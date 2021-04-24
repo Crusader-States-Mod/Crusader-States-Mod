@@ -1,7 +1,6 @@
 capital = 749
 primary_culture = italian
 culture = greek
-culture = venetian
 culture = norman_sicilian
 religion = catholic
 government = hms_government

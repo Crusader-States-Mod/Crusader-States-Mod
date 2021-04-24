@@ -3,31 +3,31 @@
 #Kiel (256000/64000 POPS)
 369 = {
 	aristocrats = {
-		culture = north_german
+		culture = danish
 		religion = catholic
 		size = 600  
 	}
 
 	bureaucrats = {
-		culture = north_german
+		culture = danish
 		religion = catholic
 		size = 175 
 	}
 
 	officers = {
-		culture = north_german
+		culture = danish
 		religion = catholic
 		size = 100  
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = danish
 		religion = catholic
 		size = 575
 	}
 
 	artisans = {
-		culture = north_german
+		culture = danish
 		religion = catholic
 		size = 2400
 	}
@@ -114,25 +114,25 @@
 
 	clergymen = {
 		culture = danish
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = danish
-		religion = protestant
+		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
 		culture = danish
-		religion = protestant
+		religion = catholic
 		size = 100
 	}
 
 	farmers = {
 		culture = danish
-		religion = protestant
+		religion = catholic
 		size = 4600 
 	}
 }
@@ -356,13 +356,13 @@
 #Lubeck (46503/11626 POPS)
 530 = {
 	aristocrats = {
-		culture = north_german
+		culture = danish
 		religion = catholic
 		size = 200 
 	}
 
 	bureaucrats = {
-		culture = north_german
+		culture = danish
 		religion = catholic
 		size = 116
 	}
@@ -374,7 +374,7 @@
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = danish
 		religion = catholic
 		size = 230
 	}
@@ -394,13 +394,13 @@
 	farmers = {
 		culture = north_german
 		religion = catholic
-		size = 3476 
+		size = 33476 
 	}
 
 	farmers = {
-		culture = north_german
+		culture = danish
 		religion = catholic
-		size = 100 
+		size = 8000 
 	}
 	
 	######Jews
@@ -483,7 +483,13 @@
 	farmers = {
 		culture = north_german
 		religion = catholic
-		size = 109800 
+		size = 70000 
+	}
+
+	farmers = {
+		culture = danish
+		religion = catholic
+		size = 39800 
 	}
 
 	######Jews
@@ -527,25 +533,25 @@
 #Neustrelitz (90000/22500 POPS)
 545 = {
 	aristocrats = {
-		culture = north_german
+		culture = danish
 		religion = catholic
 		size = 200 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = danish
 		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = north_german
+		culture = danish
 		religion = catholic
 		size = 1125
 	}
 
 	soldiers = {
-		culture = north_german
+		culture = danish
 		religion = catholic
 		size = 1000
 	}
@@ -2522,7 +2528,7 @@
 	farmers = {
 		culture = north_german
 		religion = catholic
-		size = 1550
+		size = 11550
 	}
 
 	clergymen = {
@@ -3247,7 +3253,7 @@
 	}
 
 	artisans = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 1350
 	}
@@ -3277,7 +3283,7 @@
 	}
 
 	artisans = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 1400
 	}
@@ -3357,19 +3363,19 @@
 	}
 
 	clergymen = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 25 
 	}
 
 	artisans = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 1875 
 	}
@@ -3589,13 +3595,13 @@
 	}
 
 	clergymen = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 10 
 	}
 
 	farmers = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 990 
 	}

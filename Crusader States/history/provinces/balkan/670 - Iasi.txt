@@ -1,6 +1,7 @@
-owner = PHC
-controller = PHC
-add_core = PHC
+owner = HUN
+controller = HUN
+add_core = HUN
 add_core = WAL
+add_core = POL
 trade_goods = fruit
 life_rating = 35

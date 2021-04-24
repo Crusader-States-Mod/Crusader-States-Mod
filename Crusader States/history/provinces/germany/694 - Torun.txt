@@ -1,6 +1,7 @@
-owner = PHC
-controller = PHC
-add_core = PHC
+owner = POL
+controller = POL
+add_core = POL
+add_core = TEU
 trade_goods = grain
 life_rating = 40
 1861.1.1 = { railroad = 3 }

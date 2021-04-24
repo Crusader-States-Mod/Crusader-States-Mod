@@ -4,5 +4,6 @@ add_core = ERE
 add_core = BUL
 add_core = ALB
 add_core = DNB
+add_core = ROM
 trade_goods = fruit
 life_rating = 35

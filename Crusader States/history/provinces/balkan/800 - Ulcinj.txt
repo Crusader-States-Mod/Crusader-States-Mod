@@ -1,6 +1,9 @@
-owner = SER
-controller = SER
+owner = ERE
+controller = ERE
+add_core = ERE
+add_core = ALB
 add_core = SER
 add_core = DNB
+add_core = ROM
 trade_goods = grain
 life_rating = 35

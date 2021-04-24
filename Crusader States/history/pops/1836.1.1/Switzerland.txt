@@ -138,85 +138,85 @@
 #Basel (272000/68000 POPS)
 604 = {
 	aristocrats = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 275
 	}
 
 	clerks = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 100
 	}
 
 	craftsmen = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 750
 	}
 
 	artisans = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 2250
 	}
 
 	soldiers = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 33540
 	}
 
 	aristocrats = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 250
 	}
 
 	clerks = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 100
 	}
 
 	craftsmen = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 600
 	}
 
 	artisans = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 1900
 	}
 
 	soldiers = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 25800
 	}
@@ -224,61 +224,61 @@
 #Bern (352000/88000 POPS)
 605 = {
 	aristocrats = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 350
 	}
 
 	capitalists = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 100
 	}
 
 	officers = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 350
 	}
 
 	bureaucrats = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 800
 	}
 
 	clergymen = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 625
 	}
 
 	clerks = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 100
 	}
 
 	craftsmen = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 1500
 	}
 
 	artisans = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 4500
 	}
 
 	soldiers = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 79000
 	}
@@ -320,85 +320,85 @@
 #Geneva (316000/79000 POPS)
 607 = {
 	aristocrats = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 200
 	}
 
 	bureaucrats = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 120
 	}
 
 	officers = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 60
 	}
 
 	clergymen = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 300
 	}
 
 	artisans = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 4000
 	}
 
 	soldiers = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 37320
 	}
 
 	aristocrats = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 300
 	}
 
 	bureaucrats = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 80
 	}
 
 	officers = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 350
 	}
 
 	artisans = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 31230
 	}
@@ -406,31 +406,31 @@
 #Neuchatel (56000/14000 POPS)
 608 = {
 	aristocrats = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 150
 	}
 
 	farmers = {
-		culture = burgundian
+		culture = french
 		religion = catholic
 		size = 10625
 	}
@@ -438,33 +438,39 @@
 #Sitten (72000/18000) POPS
 609 = {
 	aristocrats = {
-		culture = burgundian
+		culture = italian
 		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = burgundian
+		culture = italian
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = burgundian
+		culture = italian
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = burgundian
+		culture = italian
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = burgundian
+		culture = italian
 		religion = catholic
-		size = 15675
+		size = 10000
+	}
+
+	farmers = {
+		culture = aquitanian
+		religion = catholic
+		size = 5675
 	}
 
 }
@@ -472,43 +478,43 @@
 #Lugano (108000/27000 POPS)
 2568 = {
 	aristocrats = {
-		culture = south_german
+		culture = italian
 		religion = catholic
 		size = 250
 	}
 
 	bureaucrats = {
-		culture = south_german
+		culture = italian
 		religion = catholic
 		size = 100
 	}
 
 	officers = {
-		culture = south_german
+		culture = italian
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = italian
 		religion = catholic
 		size = 275
 	}
 
 	artisans = {
-		culture = south_german
+		culture = italian
 		religion = catholic
 		size = 1250
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = italian
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = south_german
+		culture = italian
 		religion = catholic
 		size = 24075
 	}

@@ -183,37 +183,37 @@
 	}
 
 	aristocrats = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 25
 	}
 
 	bureaucrats = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 675
 	}

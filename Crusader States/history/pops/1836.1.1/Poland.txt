@@ -39,9 +39,15 @@
 	}
 
 	farmers = {
+		culture = danish
+		religion = catholic
+		size = 35000
+	}
+
+	farmers = {
 		culture = north_german
 		religion = catholic
-		size = 100000
+		size = 65000
 	}
 
 	farmers = {

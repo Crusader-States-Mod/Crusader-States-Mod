@@ -145,25 +145,25 @@
 #Postojna (180000/45000 POPS) 
 769 = {
 	aristocrats = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 425
 	}
 
 	artisans = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 2100
 	}
 
 	soldiers = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 425
 	}
@@ -181,13 +181,13 @@
 	}
 
 	clergymen = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 1975
 	}

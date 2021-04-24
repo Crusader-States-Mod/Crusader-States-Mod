@@ -133,17 +133,23 @@
 		religion = jewish
 		size = 800
 	}
+
+	farmers = {
+		culture = prussian
+		religion = catholic
+		size = 18000
+	}
 }
 #Valmeira (516000/129000 POPS)  
 355 = {
 	clergymen = {
-		culture = livonian
+		culture = prussian
 		religion = catholic
 		size = 1100
 	}
 
 	artisans = {
-		culture = livonian
+		culture = prussian
 		religion = catholic
 		size = 3350
 	}
@@ -155,9 +161,15 @@
 	}
 
 	farmers = {
+		culture = prussian
+		religion = catholic
+		size = 12375
+	}
+
+	farmers = {
 		culture = livonian
 		religion = catholic
-		size = 112375
+		size = 100000
 	}
 
 	aristocrats = {
@@ -569,6 +581,12 @@
 		culture = prussian
 		religion = catholic
 		size = 10000
+	}
+
+	farmers = {
+		culture = prussian
+		religion = catholic
+		size = 5000
 	}
 
 	aristocrats = {

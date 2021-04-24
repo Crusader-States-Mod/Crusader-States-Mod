@@ -118,61 +118,61 @@
 	}
 
 	aristocrats = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 300
 	}
 
 	officers = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 450
 	}
 
 	bureaucrats = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 800
 	}
 
 	clergymen = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 250
 	}
 
 	capitalists = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 150
 	}
 
 	clerks = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 300
 	}
 
 	craftsmen = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 7300
 	}
 
 	soldiers = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 1100
 	}
 
 	labourers = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 5650
 	}
@@ -192,7 +192,7 @@
 	}
 
 	artisans = {
-		culture = flemish
+		culture = picard
 		religion = catholic
 		size = 10000
 	}
@@ -254,25 +254,25 @@
 	}
 
 	clergymen = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 1900
 	}
 
 	soldiers = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 100
 	}
 	
 	farmers = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 3000
 	}
@@ -281,19 +281,19 @@
 390 = {
 	
 	aristocrats = {
-		culture = flemish
+		culture = french
 		religion = catholic
 		size = 825
 	}
 
 	clergymen = {
-		culture = flemish
+		culture = french
 		religion = catholic
 		size = 575
 	}
 	
 	craftsmen = {
-		culture = flemish
+		culture = french
 		religion = catholic
 		size = 500
 	}
@@ -311,7 +311,7 @@
 	}
 
 	soldiers = {
-		culture = flemish
+		culture = french
 		religion = catholic
 		size = 1400
 	}
@@ -323,25 +323,25 @@
 	}
 
 	clergymen = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 1000
 	}
 
 	soldiers = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 100
 	}
 	
 	farmers = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 1925
 	}
@@ -381,13 +381,13 @@
 #Hasselt (272000/68000 POPS)
 391 = {
 	aristocrats = {
-		culture = flemish
+		culture = french
 		religion = catholic
 		size = 650
 	}
 
 	clergymen = {
-		culture = flemish
+		culture = french
 		religion = catholic
 		size = 475
 	}
@@ -415,61 +415,61 @@
 #Namur (388000/97000 POPS)
 392 = {
 	aristocrats = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 850
 	}
 
 	officers = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 350
 	}
 
 	bureaucrats = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 550
 	}
 
 	capitalists = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 150
 	}
 
 	clerks = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 2000
 	}
 
 	craftsmen = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 14000
 	}
 
 	artisans = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 1300
 	}
 
 	soldiers = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 4000
 	}
 
 	labourers = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 41200
 	}
@@ -537,44 +537,44 @@
 	}
 
 	aristocrats = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 700
 	}
 
 	clergymen = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 300
 	}
 
 	clerks = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 100
 	}
 
 
 	artisans = {
-		culture = lotharingian
+		culture = picard
 		religion = catholic
 		size = 2200
 	}
 
 	soldiers = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = lotharingian
+		culture = picard
 		religion = catholic
 		size = 56075
 	}
 
 	clergymen = {
-		culture = lotharingian
+		culture = picard
 		religion = catholic
 		size = 125
 	}
@@ -586,7 +586,7 @@
 	}
 
 	farmers = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 12000
 	}
@@ -618,37 +618,37 @@
 	}
 
 	aristocrats = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 900
 	}
 
 	clergymen = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 575
 	}
 
 	artisans = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 3800
 	}
 	
 	craftsmen = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 16000
 	}
 
 	soldiers = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 64725
 	}
@@ -688,43 +688,43 @@
 #Liege (212000/53000 POPS)
 395 = {
 	aristocrats = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 750
 	}
 
 	clergymen = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 500
 	}
 
 	clerks = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 100
 	}
 	
 	craftsmen = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 3000
 	}
 
 	artisans = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 1200
 	}
 
 	soldiers = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 3100
 	}
 
 	farmers = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 17800
 	}
@@ -768,13 +768,13 @@
 	}
 	
 	artisans = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 300
 	}
 
 	farmers = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 2175
 	}
@@ -784,49 +784,49 @@
 #Arlon (172000/43000 POPS)
 398 = {
 	aristocrats = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 450
 	}
 
 	clergymen = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 1350
 	}
 
 	soldiers = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 1100
 	}
 
 	craftsmen = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 6000
 	}
 	
 	farmers = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 20425
 	}
 	
 	artisans = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 250
 	}
 	
 	farmers = {
-		culture = lotharingian
+		culture = french
 		religion = catholic
 		size = 4200
 	}

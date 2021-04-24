@@ -1,8 +1,7 @@
-owner = TEU
-controller = TEU
+owner = TSA
+controller = TSA
+add_core = TSA
 add_core = TEU
-add_core = NTL
-add_core = LIV
 trade_goods = grain
 life_rating = 35
 

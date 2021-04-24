@@ -2070,20 +2070,20 @@
 #Luga (132000/33000 POPS)
 996 = {
 	aristocrats = {
-		culture = russian
-		religion = orthodox
+		culture = prussian
+		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = russian
-		religion = orthodox
+		culture = prussian
+		religion = catholic
 		size = 325
 	}
 
 	artisans = {
-		culture = russian
-		religion = orthodox
+		culture = prussian
+		religion = catholic
 		size = 1650
 	}
 
@@ -2146,7 +2146,13 @@
 	farmers = {
 		culture = russian
 		religion = orthodox
-		size = 50000
+		size = 40000
+	}
+
+	farmers = {
+		culture = prussian
+		religion = catholic
+		size = 10000
 	}
 
 	serfs = {

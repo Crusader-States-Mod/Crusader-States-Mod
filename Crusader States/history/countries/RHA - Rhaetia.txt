@@ -1,5 +1,5 @@
 capital = 2436
-primary_culture = rhaetian
+primary_culture = south_german
 religion = catholic
 government = prussian_constitutionalism
 plurality = 0.1

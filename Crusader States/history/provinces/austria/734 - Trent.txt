@@ -1,8 +1,7 @@
-owner = BAV
-controller = BAV
-add_core = BAV
-add_core = SGC
-add_core = GER
+owner = ITA
+controller = ITA
+add_core = ITA
+add_core = ROM
 trade_goods = grain
 life_rating = 35
 1861.1.1 = { railroad = 2 }

@@ -1,4 +1,4 @@
-capital = 372
+capital = 546
 primary_culture = danish
 culture = north_german
 religion = catholic

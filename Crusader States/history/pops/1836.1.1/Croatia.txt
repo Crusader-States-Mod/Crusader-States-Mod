@@ -3,49 +3,49 @@
 #Pola (188000/47000 POPS) #now part of Croatia 
 770 = {
 	aristocrats = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 750
 	}
 
 	clergymen = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 1450
 	}
 
 	soldiers = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 225
 	}
 
 	farmers = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 20875
 	}
 
 	clergymen = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 225
 	}
 
 	artisans = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 900
 	}
 
 	soldiers = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 250
 	}
@@ -389,31 +389,31 @@
 #Senj (96000/24000 POPS)
 774 = {
 	aristocrats = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 275
 	}
 
 	clergymen = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 125
 	}
 	
 	bureaucrats = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 200
 	}
 
 	artisans = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 650
 	}
 
 	soldiers = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 125
 	}
@@ -425,19 +425,19 @@
 	}
 
 	clergymen = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 550
 	}
 
 	soldiers = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 125
 	}
@@ -449,7 +449,7 @@
 	}
 
 	farmers = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 6000
 	}
@@ -666,19 +666,19 @@
 #Fiume (52000/13000 POPS)
 778 = {
 	clergymen = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 1200
 	}
 
 	soldiers = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 100
 	}
@@ -690,55 +690,55 @@
 	}
 
 	aristocrats = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 1300
 	}
 
 	soldiers = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 4425
 	}
 
 	clergymen = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 700
 	}
@@ -914,25 +914,25 @@
 	}
 
 	clergymen = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 450
 	}
@@ -982,31 +982,31 @@
 	}
 
 	bureaucrats = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 700
 	}
 
 	soldiers = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 2125
 	}
@@ -1074,31 +1074,31 @@
 	}
 
 	aristocrats = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 400
 	}

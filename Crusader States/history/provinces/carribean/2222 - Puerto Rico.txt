@@ -1,5 +1,5 @@
-owner = HNC
-controller = HNC
+owner = DEN
+controller = DEN
 trade_goods = coffee
 life_rating = 35
 colonial = 2

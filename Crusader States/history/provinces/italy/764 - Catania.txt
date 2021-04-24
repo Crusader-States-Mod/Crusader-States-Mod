@@ -2,5 +2,6 @@ owner = SIC
 controller = SIC
 add_core = SIC
 add_core = ROM
+add_core = ROM
 trade_goods = sulphur
 life_rating = 40

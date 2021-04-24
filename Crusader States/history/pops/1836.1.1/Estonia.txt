@@ -38,6 +38,12 @@
 		size = 34425
 	}
 
+	farmers = {
+		culture = prussian
+		religion = catholic
+		size = 14425
+	}
+
 	aristocrats = {
 		culture = prussian
 		religion = catholic

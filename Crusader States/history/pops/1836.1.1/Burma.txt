@@ -1212,7 +1212,7 @@
 #Sittwe (176000/44000 POPS)
 1345 = {
 	bureaucrats = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 10
 	}

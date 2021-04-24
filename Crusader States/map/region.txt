@@ -96,9 +96,9 @@ FRA_445 = { 445 446 447 } #Limousin
 
 FRA_448 = { 448 449 450 } #Auvergne
 
-FRA_451 = { 451 452 453 454 } #Rhone
+FRA_451 = { 451 452 453 } #Rhone
 
-FRA_455 = { 455 456 461 462 463 } #Toulouse
+FRA_455 = { 455 456 462 463 } #Toulouse
 
 FRA_458 = { 458 459 } #Aquitaine
 
@@ -146,16 +146,12 @@ BAV_599 = { 599 592 600 601 602 } #Upper Bavaria
  
 PRU_682 = { 682 683 684 685 } #Silesia
 
-PRU_690 = { 690 691 694 693 } #Westpreu�en
-
-PRU_695 = { 695 696 697 698 } #Ostpreu�en
-
 PRU_701 = { 701 699 700 } #Posen
 
 
 ### Austria
 
-AUS_612 = { 612 613 614 615 } #Tirol
+AUS_612 = { 612 613 614 615 735 } #Tirol
 
 AUS_613 = { 616 617 618 } #K�rnten-Steiermark
 
@@ -185,11 +181,9 @@ AUS_662 = { 702 951 952 953} #East Galicia
 
 RUS_715 = { 715 711 713 716 } #West Galicia
 
-AUS_726 = { 726 727 728 2669 } #Lombardia
+AUS_726 = { 726 727 728 734 2669 2568 } #Lombardia
 
 AUS_729 = { 729 730 731 732 733 8 } #Venetia
-
-AUS_734 = { 734 735 } #South Tirol
 
 AUS_736 = { 769 770 778 736 737 } #Istria
 
@@ -216,9 +210,11 @@ PAP_741 = { 741 742 743 739 738 740 } #Emilia-Romagna
 
 PAP_752 = { 749 752 750 751 } #Lazio
 
-SIC_753 = { 756 758 10 753 757 } #Puglia
+SIC_753 = { 756 758 757 } #Puglia
 
-SIC_754 = { 754 755 759 760 761 2567 } #Campania
+SIC_754 = { 754 2567 10 753 } #Campania
+
+SIC_759 = { 759 755 760 761 } #Calabria
 
 SIC_763 = { 763 762 764 854 } #Sicily
 
@@ -1261,7 +1257,7 @@ HNC_528 = { 528 531 532 535 } #South Saxony
 
 DEN_544 = { 544 545 547 548 } #Western Pomerania
 
-DEN_546 = { 546 679 680 692 } #Eastern Pomerania 
+DEN_546 = { 546 679 680 } #Eastern Pomerania 
 
 KOL_575 = { 575 570 574 571 576 577 } #Rhineland-Palatinate
 
@@ -1273,13 +1269,15 @@ AGN_503 = { 503 504 505 } #Valencia
 
 AND_506 = { 506 507 508 } #Cartagena
 
-FRA_465 = { 465 466 721 } #Savoie
+FRA_465 = { 465 466 721 609 454 } #Savoie
 
-GOT_467 = { 467 468 469 470 471 472 } #Provence
+ITA_470 = { 470 469 471 472 } #Provence
 
-FRA_607 = { 605 604 607 608 609 } #Switzerland
+GOT_468 = { 468 467 461 } #Avignon
 
-RHA_603 = { 603 606 611 2568 } #Rhaetia
+FRA_607 = { 605 604 607 608 } #Switzerland
+
+RHA_603 = { 603 606 611 } #Rhaetia
 
 LUS_518 = { 518 519 520 521 522 523 } #Portugal
 
@@ -1322,3 +1320,7 @@ AFG_1218 = { 1218 1219 1223 } #Pashtunistan
 AFG_1209 = { 1209 1216 1210 1217 } #East Afghanistan
 
 PER_1215 = { 1215 1214 2133 1212 1213 1211 } #West Afghanistan
+
+POL_690 = { 690 691 692 694 693  } #Pomerelia
+
+TEU_695 = { 695 696 697 698 } #Prussia

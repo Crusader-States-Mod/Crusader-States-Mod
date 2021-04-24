@@ -1,9 +1,5 @@
 capital = 425
 primary_culture = french
-culture = aquitanian
-culture = burgundian
-culture = lotharingian
-culture = catalan
 culture = picard
 culture = breton
 culture = belgian

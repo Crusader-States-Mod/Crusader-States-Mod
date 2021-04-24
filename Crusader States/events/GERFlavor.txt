@@ -1,3 +1,55 @@
+country_event = {
+	id = 1000000
+	title = "EVTNAME1000000" #Choose the capital of Germany
+	desc = "EVTDESC1000000"
+	picture = "german_capital"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVT1000000OPTA"
+		prestige = 20
+		ai_chance = {
+			factor = 30
+		}
+	}
+
+	option = {
+		name = "EVT1000000OPTC"
+		prestige = 20
+		capital = 530
+		ai_chance = {
+			factor = 10
+		}
+	}
+
+	option = {
+		name = "EVT1000000OPTD"
+		prestige = 20
+		capital = 564
+		ai_chance = {
+			factor = 20
+		}
+	}
+
+	option = {
+		name = "EVT1000000OPTE"
+		prestige = 25
+		capital = 595
+		ai_chance = {
+			factor = 20
+		}
+	}
+
+	option = {
+		name = "EVT1000000OPTF"
+		prestige = 20
+		capital = 602
+		ai_chance = {
+			factor = 15
+		}
+	}
+}
 
 country_event = {
 

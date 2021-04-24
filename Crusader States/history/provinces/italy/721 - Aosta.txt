@@ -1,5 +1,7 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = SVY
+controller = SVY
+add_core = SVY
+add_core = GOT
+add_core = ROM
 trade_goods = silk
 life_rating = 35

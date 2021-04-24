@@ -1,6 +1,7 @@
-owner = GOT
-controller = GOT
+owner = SVY
+controller = SVY
+add_core = SVY
 add_core = GOT
-add_core = HIS
+add_core = ROM
 trade_goods = grain
 life_rating = 33

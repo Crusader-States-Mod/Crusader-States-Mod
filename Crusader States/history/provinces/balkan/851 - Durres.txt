@@ -2,5 +2,6 @@ owner = ERE
 controller = ERE
 add_core = ERE
 add_core = ALB
+add_core = ROM
 trade_goods = cattle
 life_rating = 35

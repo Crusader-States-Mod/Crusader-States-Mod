@@ -51,19 +51,19 @@
 	}
 
 	clergymen = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 5
 	}
 	
 	farmers = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 1302
 	}
 	
 	farmers = {
-		culture = venetian
+		culture = italian
 		religion = catholic
 		size = 35
 	}

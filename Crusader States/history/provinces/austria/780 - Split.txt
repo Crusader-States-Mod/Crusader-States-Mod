@@ -3,5 +3,6 @@ controller = VEN
 add_core = VEN
 add_core = CRO
 add_core = ILL
+add_core = ROM
 trade_goods = fish
 life_rating = 35
